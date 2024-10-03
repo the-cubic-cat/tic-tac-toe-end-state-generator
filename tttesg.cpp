@@ -10,19 +10,28 @@
 using std::cout;
 using std::cin;
 
-int getIntInput()
+int getIntInput(bool requirePositive = true)
 {
     int r{};
+    std::string error{};
+    if (requirePositive)
+        { error = "Positive integer input expected. Try again.\n"; }
+    else
+        { error = "Integer input expected. Try again.\n"; }
+    
     do
     {
         if (cin.fail())
         {
-            cout << "Integer input expected. Try again.\n";
+            cout << error;
             cin.clear();
             cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
         }
 
         cin >> r;
+
+        if (requirePositive && r <= 0)
+            { cin.setstate(std::ios_base::failbit); }
 
     } while (cin.fail());
 
