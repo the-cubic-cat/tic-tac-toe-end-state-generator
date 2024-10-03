@@ -1,0 +1,6707 @@
+The number of boards counted before the quit threshold (10000) was exceeded is: 958
+
+- X O 
+X X O 
+O X - 
+^
+X win
+Number of empty cells: 2
+
+- O X 
+- O X 
+X O - 
+^
+O win
+Number of empty cells: 3
+
+O X O 
+X X X 
+O - - 
+^
+X win
+Number of empty cells: 2
+
+X X O 
+X X O 
+O O X 
+^
+X win
+Number of empty cells: 0
+
+- X O 
+X O X 
+O O X 
+^
+O win
+Number of empty cells: 1
+
+O O X 
+O X O 
+X X X 
+^
+X win
+Number of empty cells: 0
+
+O - O 
+- - - 
+X X X 
+^
+X win
+Number of empty cells: 4
+
+O X O 
+O X X 
+O - X 
+^
+O win
+Number of empty cells: 1
+
+O X X 
+X X O 
+O O X 
+^
+draw
+Number of empty cells: 0
+
+O X X 
+- O - 
+X - O 
+^
+O win
+Number of empty cells: 3
+
+X O O 
+O X X 
+O X X 
+^
+X win
+Number of empty cells: 0
+
+O X O 
+X X - 
+O X - 
+^
+X win
+Number of empty cells: 2
+
+- X - 
+O X O 
+- X - 
+^
+X win
+Number of empty cells: 4
+
+X O X 
+O X O 
+X X O 
+^
+X win
+Number of empty cells: 0
+
+X O X 
+O - X 
+O - X 
+^
+X win
+Number of empty cells: 2
+
+X X O 
+O X X 
+X O O 
+^
+draw
+Number of empty cells: 0
+
+X X X 
+X O O 
+O O X 
+^
+X win
+Number of empty cells: 0
+
+O - X 
+X O - 
+X - O 
+^
+O win
+Number of empty cells: 3
+
+X - X 
+X X O 
+O O O 
+^
+O win
+Number of empty cells: 1
+
+X - - 
+X X - 
+O O O 
+^
+O win
+Number of empty cells: 3
+
+- - O 
+O X O 
+X X X 
+^
+X win
+Number of empty cells: 2
+
+O X O 
+O X X 
+X O X 
+^
+draw
+Number of empty cells: 0
+
+O O X 
+O X X 
+X X O 
+^
+X win
+Number of empty cells: 0
+
+- - X 
+O O O 
+- X X 
+^
+O win
+Number of empty cells: 3
+
+X X X 
+- - O 
+O - - 
+^
+X win
+Number of empty cells: 4
+
+O X O 
+X - O 
+X X O 
+^
+O win
+Number of empty cells: 1
+
+X - - 
+O O O 
+X - X 
+^
+O win
+Number of empty cells: 3
+
+O O - 
+O X X 
+O X X 
+^
+O win
+Number of empty cells: 1
+
+- X O 
+- X O 
+X - O 
+^
+O win
+Number of empty cells: 3
+
+X O X 
+O X X 
+O X O 
+^
+draw
+Number of empty cells: 0
+
+X O O 
+X - - 
+X - - 
+^
+X win
+Number of empty cells: 4
+
+X O X 
+X - - 
+X O O 
+^
+X win
+Number of empty cells: 2
+
+X X O 
+X O X 
+X O O 
+^
+X win
+Number of empty cells: 0
+
+O - X 
+X O X 
+- - O 
+^
+O win
+Number of empty cells: 3
+
+X X O 
+O X O 
+X O X 
+^
+X win
+Number of empty cells: 0
+
+X X X 
+X O O 
+O - - 
+^
+X win
+Number of empty cells: 2
+
+- X O 
+X O X 
+O X O 
+^
+O win
+Number of empty cells: 1
+
+X - O 
+O X O 
+X - X 
+^
+X win
+Number of empty cells: 2
+
+X O O 
+X X O 
+- - X 
+^
+X win
+Number of empty cells: 2
+
+X X - 
+O O O 
+- X - 
+^
+O win
+Number of empty cells: 3
+
+O - - 
+O - - 
+X X X 
+^
+X win
+Number of empty cells: 4
+
+O O X 
+- X - 
+X O X 
+^
+X win
+Number of empty cells: 2
+
+X X X 
+- O O 
+- X O 
+^
+X win
+Number of empty cells: 2
+
+X O O 
+X X O 
+X O X 
+^
+X win
+Number of empty cells: 0
+
+O O X 
+- X X 
+- O X 
+^
+X win
+Number of empty cells: 2
+
+X X - 
+O O O 
+O X X 
+^
+O win
+Number of empty cells: 1
+
+O O X 
+X X X 
+O X O 
+^
+X win
+Number of empty cells: 0
+
+X O X 
+O O X 
+X X O 
+^
+draw
+Number of empty cells: 0
+
+O X O 
+X X X 
+- O - 
+^
+X win
+Number of empty cells: 2
+
+X O X 
+X X O 
+X O O 
+^
+X win
+Number of empty cells: 0
+
+O X - 
+X O X 
+X O O 
+^
+O win
+Number of empty cells: 1
+
+X O O 
+X X X 
+X O O 
+^
+X win
+Number of empty cells: 0
+
+X O X 
+X X - 
+O O O 
+^
+O win
+Number of empty cells: 1
+
+- O O 
+X X X 
+X - O 
+^
+X win
+Number of empty cells: 2
+
+- - X 
+X O X 
+O O X 
+^
+X win
+Number of empty cells: 2
+
+X - O 
+X - O 
+X O X 
+^
+X win
+Number of empty cells: 2
+
+X X O 
+- X O 
+X O O 
+^
+O win
+Number of empty cells: 1
+
+X O - 
+X X - 
+X O O 
+^
+X win
+Number of empty cells: 2
+
+O O X 
+O X - 
+O X X 
+^
+O win
+Number of empty cells: 1
+
+O O O 
+X X - 
+X - - 
+^
+O win
+Number of empty cells: 3
+
+X O O 
+O X X 
+X X O 
+^
+draw
+Number of empty cells: 0
+
+- - O 
+X X O 
+X - O 
+^
+O win
+Number of empty cells: 3
+
+O X O 
+X X O 
+X - O 
+^
+O win
+Number of empty cells: 1
+
+X O O 
+- X - 
+O X X 
+^
+X win
+Number of empty cells: 2
+
+O X X 
+X O O 
+O X X 
+^
+draw
+Number of empty cells: 0
+
+O X O 
+X O X 
+X - O 
+^
+O win
+Number of empty cells: 1
+
+- X O 
+X O O 
+X X O 
+^
+O win
+Number of empty cells: 1
+
+X X O 
+- O X 
+O O X 
+^
+O win
+Number of empty cells: 1
+
+O O X 
+- X X 
+O - X 
+^
+X win
+Number of empty cells: 2
+
+O - - 
+O O X 
+X X X 
+^
+X win
+Number of empty cells: 2
+
+O O X 
+- O X 
+X - X 
+^
+X win
+Number of empty cells: 2
+
+X O X 
+O O - 
+X O X 
+^
+O win
+Number of empty cells: 1
+
+O O O 
+O X X 
+X X - 
+^
+O win
+Number of empty cells: 1
+
+O X - 
+X X X 
+O O - 
+^
+X win
+Number of empty cells: 2
+
+O X X 
+O X O 
+O - X 
+^
+O win
+Number of empty cells: 1
+
+O X O 
+X X X 
+X O O 
+^
+X win
+Number of empty cells: 0
+
+O X O 
+X X O 
+X O X 
+^
+draw
+Number of empty cells: 0
+
+X X X 
+X - O 
+O O - 
+^
+X win
+Number of empty cells: 2
+
+O X X 
+X O O 
+X O X 
+^
+draw
+Number of empty cells: 0
+
+O X O 
+X X O 
+O X X 
+^
+X win
+Number of empty cells: 0
+
+- O X 
+X O X 
+X O O 
+^
+O win
+Number of empty cells: 1
+
+X O X 
+X O O 
+O X X 
+^
+draw
+Number of empty cells: 0
+
+O O X 
+X X O 
+X X O 
+^
+X win
+Number of empty cells: 0
+
+- X O 
+O O X 
+O X X 
+^
+O win
+Number of empty cells: 1
+
+O O - 
+X X X 
+- O X 
+^
+X win
+Number of empty cells: 2
+
+O O X 
+X O X 
+O X X 
+^
+X win
+Number of empty cells: 0
+
+- O O 
+X X O 
+X X O 
+^
+O win
+Number of empty cells: 1
+
+X X X 
+O O X 
+O X O 
+^
+X win
+Number of empty cells: 0
+
+- O X 
+O O X 
+X - X 
+^
+X win
+Number of empty cells: 2
+
+O - - 
+O - X 
+O X X 
+^
+O win
+Number of empty cells: 3
+
+O X O 
+O - X 
+O X X 
+^
+O win
+Number of empty cells: 1
+
+X O O 
+O O X 
+X X X 
+^
+X win
+Number of empty cells: 0
+
+X - O 
+- O X 
+O X - 
+^
+O win
+Number of empty cells: 3
+
+X - O 
+- X O 
+X - O 
+^
+O win
+Number of empty cells: 3
+
+O - X 
+X X O 
+X O - 
+^
+X win
+Number of empty cells: 2
+
+O X X 
+- X O 
+- X O 
+^
+X win
+Number of empty cells: 2
+
+- - X 
+- O X 
+O - X 
+^
+X win
+Number of empty cells: 4
+
+- O O 
+X X X 
+O - X 
+^
+X win
+Number of empty cells: 2
+
+- - X 
+- O X 
+- O X 
+^
+X win
+Number of empty cells: 4
+
+- X O 
+- X O 
+O X X 
+^
+X win
+Number of empty cells: 2
+
+X X X 
+O O X 
+X O O 
+^
+X win
+Number of empty cells: 0
+
+X X O 
+- O - 
+O X - 
+^
+O win
+Number of empty cells: 3
+
+X X O 
+X O O 
+X O X 
+^
+X win
+Number of empty cells: 0
+
+X - O 
+O O X 
+O X X 
+^
+O win
+Number of empty cells: 1
+
+O X X 
+- O X 
+O X O 
+^
+O win
+Number of empty cells: 1
+
+- X X 
+O X - 
+X O O 
+^
+X win
+Number of empty cells: 2
+
+X - - 
+O O O 
+X X - 
+^
+O win
+Number of empty cells: 3
+
+O O X 
+O X X 
+O X - 
+^
+O win
+Number of empty cells: 1
+
+O - - 
+X O O 
+X X X 
+^
+X win
+Number of empty cells: 2
+
+X O - 
+X O - 
+X X O 
+^
+X win
+Number of empty cells: 2
+
+- O X 
+O X X 
+O - X 
+^
+X win
+Number of empty cells: 2
+
+X - O 
+X O - 
+O - X 
+^
+O win
+Number of empty cells: 3
+
+X O O 
+X O X 
+X - - 
+^
+X win
+Number of empty cells: 2
+
+O X - 
+- X O 
+- X - 
+^
+X win
+Number of empty cells: 4
+
+O O O 
+X - X 
+O X X 
+^
+O win
+Number of empty cells: 1
+
+O O X 
+X X O 
+O X X 
+^
+draw
+Number of empty cells: 0
+
+O X O 
+- X - 
+X X O 
+^
+X win
+Number of empty cells: 2
+
+X O O 
+- X X 
+O - X 
+^
+X win
+Number of empty cells: 2
+
+X X O 
+O O O 
+- X X 
+^
+O win
+Number of empty cells: 1
+
+O - X 
+- X O 
+X O X 
+^
+X win
+Number of empty cells: 2
+
+X - O 
+X - - 
+X - O 
+^
+X win
+Number of empty cells: 4
+
+X O X 
+X X O 
+O X O 
+^
+draw
+Number of empty cells: 0
+
+O O - 
+X X X 
+- - - 
+^
+X win
+Number of empty cells: 4
+
+- - X 
+O X X 
+O O X 
+^
+X win
+Number of empty cells: 2
+
+O - X 
+X O X 
+O X O 
+^
+O win
+Number of empty cells: 1
+
+X - X 
+- O X 
+O O X 
+^
+X win
+Number of empty cells: 2
+
+O - - 
+X X X 
+O O X 
+^
+X win
+Number of empty cells: 2
+
+X X - 
+X O O 
+X - O 
+^
+X win
+Number of empty cells: 2
+
+- X O 
+- X O 
+- X - 
+^
+X win
+Number of empty cells: 4
+
+X X X 
+O - O 
+O - X 
+^
+X win
+Number of empty cells: 2
+
+- X O 
+- X - 
+- X O 
+^
+X win
+Number of empty cells: 4
+
+O X X 
+X O - 
+X O O 
+^
+O win
+Number of empty cells: 1
+
+- X X 
+O O O 
+X - - 
+^
+O win
+Number of empty cells: 3
+
+X X X 
+- O O 
+- - - 
+^
+X win
+Number of empty cells: 4
+
+- X X 
+O O O 
+O X X 
+^
+O win
+Number of empty cells: 1
+
+X O O 
+X X X 
+O X O 
+^
+X win
+Number of empty cells: 0
+
+X X O 
+X X O 
+O - O 
+^
+O win
+Number of empty cells: 1
+
+X X X 
+- X O 
+- O O 
+^
+X win
+Number of empty cells: 2
+
+- - X 
+O O X 
+X O X 
+^
+X win
+Number of empty cells: 2
+
+X X - 
+O X - 
+O X O 
+^
+X win
+Number of empty cells: 2
+
+- - X 
+- X - 
+X O O 
+^
+X win
+Number of empty cells: 4
+
+O X X 
+X X O 
+X O O 
+^
+X win
+Number of empty cells: 0
+
+O X O 
+X O X 
+X O X 
+^
+draw
+Number of empty cells: 0
+
+- X O 
+X X X 
+O O - 
+^
+X win
+Number of empty cells: 2
+
+X X O 
+X O X 
+O O - 
+^
+O win
+Number of empty cells: 1
+
+O O O 
+X - X 
+X O X 
+^
+O win
+Number of empty cells: 1
+
+O X X 
+O O X 
+- X O 
+^
+O win
+Number of empty cells: 1
+
+- X O 
+X X X 
+O - O 
+^
+X win
+Number of empty cells: 2
+
+O - X 
+- O X 
+- - X 
+^
+X win
+Number of empty cells: 4
+
+X X O 
+- X X 
+O O O 
+^
+O win
+Number of empty cells: 1
+
+O O X 
+X X - 
+X O - 
+^
+X win
+Number of empty cells: 2
+
+X O O 
+X O X 
+- O X 
+^
+O win
+Number of empty cells: 1
+
+X X O 
+O - O 
+X X O 
+^
+O win
+Number of empty cells: 1
+
+X - O 
+X O X 
+O X O 
+^
+O win
+Number of empty cells: 1
+
+X O X 
+X O O 
+X X O 
+^
+X win
+Number of empty cells: 0
+
+O X - 
+X O X 
+O X O 
+^
+O win
+Number of empty cells: 1
+
+X - O 
+X X - 
+O O X 
+^
+X win
+Number of empty cells: 2
+
+X - - 
+O X O 
+X O X 
+^
+X win
+Number of empty cells: 2
+
+X - X 
+O O O 
+- X - 
+^
+O win
+Number of empty cells: 3
+
+X - O 
+- X X 
+O O X 
+^
+X win
+Number of empty cells: 2
+
+O X O 
+- X X 
+- X O 
+^
+X win
+Number of empty cells: 2
+
+- X X 
+O O O 
+X O X 
+^
+O win
+Number of empty cells: 1
+
+X X O 
+O O O 
+X - X 
+^
+O win
+Number of empty cells: 1
+
+X X X 
+X O O 
+- O - 
+^
+X win
+Number of empty cells: 2
+
+X X X 
+- O X 
+O - O 
+^
+X win
+Number of empty cells: 2
+
+X - O 
+X X X 
+- O O 
+^
+X win
+Number of empty cells: 2
+
+X X O 
+O X X 
+O O X 
+^
+X win
+Number of empty cells: 0
+
+X O O 
+- X O 
+X X O 
+^
+O win
+Number of empty cells: 1
+
+X O X 
+X O O 
+X - - 
+^
+X win
+Number of empty cells: 2
+
+X - X 
+X O O 
+X - O 
+^
+X win
+Number of empty cells: 2
+
+O X X 
+O X O 
+X O X 
+^
+X win
+Number of empty cells: 0
+
+X X O 
+X - O 
+X O - 
+^
+X win
+Number of empty cells: 2
+
+- X O 
+O X - 
+O X X 
+^
+X win
+Number of empty cells: 2
+
+O X X 
+X O O 
+- X O 
+^
+O win
+Number of empty cells: 1
+
+O X - 
+O X - 
+X X O 
+^
+X win
+Number of empty cells: 2
+
+O X - 
+- O - 
+X X O 
+^
+O win
+Number of empty cells: 3
+
+X X X 
+- - O 
+O X O 
+^
+X win
+Number of empty cells: 2
+
+O - X 
+- X O 
+X - - 
+^
+X win
+Number of empty cells: 4
+
+X O O 
+X X O 
+O X X 
+^
+X win
+Number of empty cells: 0
+
+X O X 
+O O O 
+X X - 
+^
+O win
+Number of empty cells: 1
+
+X X - 
+- X O 
+O X O 
+^
+X win
+Number of empty cells: 2
+
+X - X 
+X O X 
+O O O 
+^
+O win
+Number of empty cells: 1
+
+O O X 
+- O X 
+- X X 
+^
+X win
+Number of empty cells: 2
+
+O O O 
+- X - 
+- X X 
+^
+O win
+Number of empty cells: 3
+
+O O O 
+- X - 
+X - X 
+^
+O win
+Number of empty cells: 3
+
+X - X 
+O O O 
+X O X 
+^
+O win
+Number of empty cells: 1
+
+O X X 
+O O - 
+X X O 
+^
+O win
+Number of empty cells: 1
+
+O X - 
+- X - 
+O X - 
+^
+X win
+Number of empty cells: 4
+
+O X X 
+O O X 
+X O X 
+^
+X win
+Number of empty cells: 0
+
+O O - 
+- - - 
+X X X 
+^
+X win
+Number of empty cells: 4
+
+O O X 
+X O - 
+X O X 
+^
+O win
+Number of empty cells: 1
+
+X X O 
+X O O 
+- X O 
+^
+O win
+Number of empty cells: 1
+
+- - X 
+O X O 
+X - - 
+^
+X win
+Number of empty cells: 4
+
+O X X 
+X O X 
+O O X 
+^
+X win
+Number of empty cells: 0
+
+O O X 
+X O X 
+- X O 
+^
+O win
+Number of empty cells: 1
+
+X - - 
+O X - 
+- O X 
+^
+X win
+Number of empty cells: 4
+
+X X X 
+O - - 
+O - - 
+^
+X win
+Number of empty cells: 4
+
+X O O 
+X X - 
+X O - 
+^
+X win
+Number of empty cells: 2
+
+O X O 
+X O O 
+X X X 
+^
+X win
+Number of empty cells: 0
+
+X O - 
+X - O 
+X X O 
+^
+X win
+Number of empty cells: 2
+
+X O - 
+X O X 
+O O X 
+^
+O win
+Number of empty cells: 1
+
+O X O 
+O X O 
+X X X 
+^
+X win
+Number of empty cells: 0
+
+O - X 
+- - X 
+- O X 
+^
+X win
+Number of empty cells: 4
+
+X O X 
+O X X 
+X O O 
+^
+X win
+Number of empty cells: 0
+
+X - - 
+X O O 
+X O X 
+^
+X win
+Number of empty cells: 2
+
+X X - 
+X - O 
+X O O 
+^
+X win
+Number of empty cells: 2
+
+X X O 
+- X O 
+O - X 
+^
+X win
+Number of empty cells: 2
+
+O - X 
+O X - 
+O X - 
+^
+O win
+Number of empty cells: 3
+
+X O O 
+X X - 
+- O X 
+^
+X win
+Number of empty cells: 2
+
+O X O 
+- X - 
+O X X 
+^
+X win
+Number of empty cells: 2
+
+O - - 
+X O X 
+- X O 
+^
+O win
+Number of empty cells: 3
+
+O X - 
+O O - 
+X X X 
+^
+X win
+Number of empty cells: 2
+
+X X O 
+X O O 
+O X - 
+^
+O win
+Number of empty cells: 1
+
+X O X 
+X X O 
+O O X 
+^
+X win
+Number of empty cells: 0
+
+X O X 
+O X O 
+O X X 
+^
+X win
+Number of empty cells: 0
+
+X X O 
+O O X 
+X O X 
+^
+draw
+Number of empty cells: 0
+
+O X X 
+X - X 
+O O O 
+^
+O win
+Number of empty cells: 1
+
+X - O 
+X X O 
+O X O 
+^
+O win
+Number of empty cells: 1
+
+- X O 
+X X O 
+X O O 
+^
+O win
+Number of empty cells: 1
+
+O X - 
+O X O 
+- X X 
+^
+X win
+Number of empty cells: 2
+
+X X X 
+- X O 
+O O - 
+^
+X win
+Number of empty cells: 2
+
+X X O 
+O X - 
+O X - 
+^
+X win
+Number of empty cells: 2
+
+O X X 
+O O X 
+- - X 
+^
+X win
+Number of empty cells: 2
+
+O X X 
+O O X 
+X - O 
+^
+O win
+Number of empty cells: 1
+
+X X X 
+- - - 
+O - O 
+^
+X win
+Number of empty cells: 4
+
+X X X 
+O X O 
+O X O 
+^
+X win
+Number of empty cells: 0
+
+X O O 
+- O X 
+X O X 
+^
+O win
+Number of empty cells: 1
+
+O X - 
+- O X 
+X - O 
+^
+O win
+Number of empty cells: 3
+
+O O X 
+X X O 
+X O X 
+^
+X win
+Number of empty cells: 0
+
+O X X 
+O - O 
+O X X 
+^
+O win
+Number of empty cells: 1
+
+X - - 
+X - O 
+X - O 
+^
+X win
+Number of empty cells: 4
+
+O X O 
+X X X 
+O O X 
+^
+X win
+Number of empty cells: 0
+
+X X O 
+O X O 
+X - O 
+^
+O win
+Number of empty cells: 1
+
+X O X 
+O - X 
+- O X 
+^
+X win
+Number of empty cells: 2
+
+- X X 
+O - X 
+O O X 
+^
+X win
+Number of empty cells: 2
+
+O X X 
+O X - 
+O - - 
+^
+O win
+Number of empty cells: 3
+
+X X O 
+X - O 
+- - O 
+^
+O win
+Number of empty cells: 3
+
+O X X 
+- O X 
+O - X 
+^
+X win
+Number of empty cells: 2
+
+O O O 
+X X - 
+X X O 
+^
+O win
+Number of empty cells: 1
+
+- O X 
+- X - 
+X - O 
+^
+X win
+Number of empty cells: 4
+
+X O - 
+O X - 
+O X X 
+^
+X win
+Number of empty cells: 2
+
+X - O 
+X X O 
+- - O 
+^
+O win
+Number of empty cells: 3
+
+- O X 
+X O O 
+X O X 
+^
+O win
+Number of empty cells: 1
+
+O O X 
+X X X 
+O O X 
+^
+X win
+Number of empty cells: 0
+
+X X O 
+- X - 
+O X O 
+^
+X win
+Number of empty cells: 2
+
+O O O 
+- X X 
+O X X 
+^
+O win
+Number of empty cells: 1
+
+X X X 
+O - - 
+- - O 
+^
+X win
+Number of empty cells: 4
+
+X O - 
+- O X 
+- O X 
+^
+O win
+Number of empty cells: 3
+
+O X X 
+O X X 
+X O O 
+^
+X win
+Number of empty cells: 0
+
+- - X 
+O O X 
+- - X 
+^
+X win
+Number of empty cells: 4
+
+O O O 
+X X - 
+O X X 
+^
+O win
+Number of empty cells: 1
+
+O X O 
+X O X 
+O - X 
+^
+O win
+Number of empty cells: 1
+
+- - - 
+O - O 
+X X X 
+^
+X win
+Number of empty cells: 4
+
+X O X 
+O X O 
+- - X 
+^
+X win
+Number of empty cells: 2
+
+X O O 
+O X O 
+X X X 
+^
+X win
+Number of empty cells: 0
+
+X O X 
+X O X 
+O X O 
+^
+draw
+Number of empty cells: 0
+
+X X O 
+O O X 
+X X O 
+^
+draw
+Number of empty cells: 0
+
+- O X 
+- X O 
+X O X 
+^
+X win
+Number of empty cells: 2
+
+X X O 
+X O - 
+O X O 
+^
+O win
+Number of empty cells: 1
+
+O O X 
+X - X 
+- O X 
+^
+X win
+Number of empty cells: 2
+
+O O X 
+X O X 
+X - O 
+^
+O win
+Number of empty cells: 1
+
+O X O 
+O X X 
+X X O 
+^
+X win
+Number of empty cells: 0
+
+- X O 
+- O X 
+O X - 
+^
+O win
+Number of empty cells: 3
+
+X X O 
+- O - 
+O - X 
+^
+O win
+Number of empty cells: 3
+
+O O X 
+X X X 
+O - - 
+^
+X win
+Number of empty cells: 2
+
+- O - 
+- - O 
+X X X 
+^
+X win
+Number of empty cells: 4
+
+O X - 
+X X X 
+- O O 
+^
+X win
+Number of empty cells: 2
+
+O X O 
+X X - 
+- X O 
+^
+X win
+Number of empty cells: 2
+
+- - X 
+O X - 
+X - O 
+^
+X win
+Number of empty cells: 4
+
+O - O 
+- O X 
+X X X 
+^
+X win
+Number of empty cells: 2
+
+O O - 
+- X O 
+X X X 
+^
+X win
+Number of empty cells: 2
+
+- O O 
+- O X 
+X X X 
+^
+X win
+Number of empty cells: 2
+
+X O X 
+- X X 
+O O O 
+^
+O win
+Number of empty cells: 1
+
+- X O 
+X O X 
+O - - 
+^
+O win
+Number of empty cells: 3
+
+O X X 
+- O X 
+X O O 
+^
+O win
+Number of empty cells: 1
+
+X X O 
+- O X 
+O - - 
+^
+O win
+Number of empty cells: 3
+
+X X - 
+X X O 
+O O O 
+^
+O win
+Number of empty cells: 1
+
+- O X 
+X X X 
+O - O 
+^
+X win
+Number of empty cells: 2
+
+X - O 
+- X - 
+O - X 
+^
+X win
+Number of empty cells: 4
+
+O X - 
+O X - 
+O - X 
+^
+O win
+Number of empty cells: 3
+
+- X - 
+O X - 
+- X O 
+^
+X win
+Number of empty cells: 4
+
+O O X 
+X O X 
+X O - 
+^
+O win
+Number of empty cells: 1
+
+O X X 
+X O O 
+X - O 
+^
+O win
+Number of empty cells: 1
+
+X - - 
+O X O 
+O X X 
+^
+X win
+Number of empty cells: 2
+
+O - O 
+X O X 
+X X O 
+^
+O win
+Number of empty cells: 1
+
+X O O 
+X O - 
+O X X 
+^
+O win
+Number of empty cells: 1
+
+X X X 
+O O - 
+- - - 
+^
+X win
+Number of empty cells: 4
+
+X O - 
+X X X 
+O O - 
+^
+X win
+Number of empty cells: 2
+
+- - O 
+X X X 
+O - - 
+^
+X win
+Number of empty cells: 4
+
+X X - 
+O X X 
+O O O 
+^
+O win
+Number of empty cells: 1
+
+O X X 
+O X O 
+X X O 
+^
+X win
+Number of empty cells: 0
+
+O O X 
+- X - 
+X - - 
+^
+X win
+Number of empty cells: 4
+
+X X - 
+X O O 
+X O - 
+^
+X win
+Number of empty cells: 2
+
+X X X 
+O - O 
+- - - 
+^
+X win
+Number of empty cells: 4
+
+O O O 
+- X X 
+X X O 
+^
+O win
+Number of empty cells: 1
+
+X - O 
+- X - 
+- O X 
+^
+X win
+Number of empty cells: 4
+
+O X X 
+X X O 
+O X O 
+^
+X win
+Number of empty cells: 0
+
+O O O 
+- X X 
+- - X 
+^
+O win
+Number of empty cells: 3
+
+X O O 
+X X X 
+O O X 
+^
+X win
+Number of empty cells: 0
+
+O X O 
+- X O 
+- X X 
+^
+X win
+Number of empty cells: 2
+
+O X X 
+- - X 
+O O X 
+^
+X win
+Number of empty cells: 2
+
+- X O 
+X O - 
+O - X 
+^
+O win
+Number of empty cells: 3
+
+- X X 
+O X X 
+O O O 
+^
+O win
+Number of empty cells: 1
+
+X O O 
+X O X 
+X X O 
+^
+X win
+Number of empty cells: 0
+
+X O O 
+- O X 
+O X X 
+^
+O win
+Number of empty cells: 1
+
+O O X 
+X X X 
+X O O 
+^
+X win
+Number of empty cells: 0
+
+- - O 
+- X O 
+X X O 
+^
+O win
+Number of empty cells: 3
+
+- - X 
+O - X 
+- O X 
+^
+X win
+Number of empty cells: 4
+
+X - O 
+O X O 
+- X X 
+^
+X win
+Number of empty cells: 2
+
+X O - 
+- O X 
+X O - 
+^
+O win
+Number of empty cells: 3
+
+O O - 
+X X X 
+O X - 
+^
+X win
+Number of empty cells: 2
+
+- X - 
+- X O 
+O X - 
+^
+X win
+Number of empty cells: 4
+
+O O X 
+O X - 
+X - X 
+^
+X win
+Number of empty cells: 2
+
+X O O 
+X O - 
+X - X 
+^
+X win
+Number of empty cells: 2
+
+O O X 
+- O X 
+X X O 
+^
+O win
+Number of empty cells: 1
+
+O X X 
+X O X 
+- O O 
+^
+O win
+Number of empty cells: 1
+
+X - O 
+- X O 
+- X O 
+^
+O win
+Number of empty cells: 3
+
+X - - 
+X O O 
+X - - 
+^
+X win
+Number of empty cells: 4
+
+X O O 
+O X X 
+X O X 
+^
+X win
+Number of empty cells: 0
+
+X X O 
+O X O 
+- - X 
+^
+X win
+Number of empty cells: 2
+
+X O X 
+X O - 
+X - O 
+^
+X win
+Number of empty cells: 2
+
+X O O 
+X X O 
+- X O 
+^
+O win
+Number of empty cells: 1
+
+X X O 
+X O - 
+O O X 
+^
+O win
+Number of empty cells: 1
+
+X X O 
+O X O 
+- X - 
+^
+X win
+Number of empty cells: 2
+
+O - X 
+O X - 
+X - - 
+^
+X win
+Number of empty cells: 4
+
+X O X 
+X O O 
+- O X 
+^
+O win
+Number of empty cells: 1
+
+X X O 
+O O X 
+O - X 
+^
+O win
+Number of empty cells: 1
+
+- X O 
+- O O 
+X X X 
+^
+X win
+Number of empty cells: 2
+
+O - X 
+O X O 
+X - X 
+^
+X win
+Number of empty cells: 2
+
+X X - 
+O X O 
+O X - 
+^
+X win
+Number of empty cells: 2
+
+X O O 
+- - O 
+X X X 
+^
+X win
+Number of empty cells: 2
+
+O - O 
+X O - 
+X X X 
+^
+X win
+Number of empty cells: 2
+
+O O X 
+- X - 
+X X O 
+^
+X win
+Number of empty cells: 2
+
+- X X 
+O O O 
+X X O 
+^
+O win
+Number of empty cells: 1
+
+X - O 
+- X O 
+X O X 
+^
+X win
+Number of empty cells: 2
+
+O O O 
+X O X 
+X X - 
+^
+O win
+Number of empty cells: 1
+
+X - O 
+O X O 
+X X O 
+^
+O win
+Number of empty cells: 1
+
+O X X 
+O O - 
+O X X 
+^
+O win
+Number of empty cells: 1
+
+O X X 
+X O - 
+O X O 
+^
+O win
+Number of empty cells: 1
+
+O - X 
+X X X 
+O O - 
+^
+X win
+Number of empty cells: 2
+
+O O O 
+O X X 
+- X X 
+^
+O win
+Number of empty cells: 1
+
+- X O 
+O O - 
+X X X 
+^
+X win
+Number of empty cells: 2
+
+O - X 
+X O X 
+X O O 
+^
+O win
+Number of empty cells: 1
+
+X X X 
+- - - 
+O O - 
+^
+X win
+Number of empty cells: 4
+
+O X - 
+- O X 
+- X O 
+^
+O win
+Number of empty cells: 3
+
+X O X 
+O O X 
+X O - 
+^
+O win
+Number of empty cells: 1
+
+X - - 
+X O X 
+X O O 
+^
+X win
+Number of empty cells: 2
+
+X O X 
+O O X 
+O X X 
+^
+X win
+Number of empty cells: 0
+
+- O X 
+- X O 
+X X O 
+^
+X win
+Number of empty cells: 2
+
+O X O 
+- - O 
+X X X 
+^
+X win
+Number of empty cells: 2
+
+X O O 
+X X O 
+X - - 
+^
+X win
+Number of empty cells: 2
+
+- X X 
+X O X 
+O O O 
+^
+O win
+Number of empty cells: 1
+
+X X X 
+O - - 
+X O O 
+^
+X win
+Number of empty cells: 2
+
+O X X 
+O - - 
+O X - 
+^
+O win
+Number of empty cells: 3
+
+X O O 
+X O - 
+X X - 
+^
+X win
+Number of empty cells: 2
+
+X O O 
+X O O 
+X X X 
+^
+X win
+Number of empty cells: 0
+
+O O X 
+X X X 
+- - O 
+^
+X win
+Number of empty cells: 2
+
+O O O 
+- X X 
+X O X 
+^
+O win
+Number of empty cells: 1
+
+X X O 
+- O X 
+O X O 
+^
+O win
+Number of empty cells: 1
+
+- X X 
+- X O 
+O X O 
+^
+X win
+Number of empty cells: 2
+
+X O X 
+- - X 
+O O X 
+^
+X win
+Number of empty cells: 2
+
+O X X 
+O X - 
+X O - 
+^
+X win
+Number of empty cells: 2
+
+O X O 
+- O X 
+O X X 
+^
+O win
+Number of empty cells: 1
+
+O O - 
+X X X 
+- X O 
+^
+X win
+Number of empty cells: 2
+
+X - O 
+X O X 
+X - O 
+^
+X win
+Number of empty cells: 2
+
+X X X 
+- O - 
+- O - 
+^
+X win
+Number of empty cells: 4
+
+X - - 
+X O - 
+X O - 
+^
+X win
+Number of empty cells: 4
+
+- X O 
+- X - 
+O X - 
+^
+X win
+Number of empty cells: 4
+
+X O X 
+X O - 
+O O X 
+^
+O win
+Number of empty cells: 1
+
+O X O 
+X X X 
+O X O 
+^
+X win
+Number of empty cells: 0
+
+X X - 
+X - - 
+O O O 
+^
+O win
+Number of empty cells: 3
+
+X - - 
+- X X 
+O O O 
+^
+O win
+Number of empty cells: 3
+
+X X X 
+O - X 
+O - O 
+^
+X win
+Number of empty cells: 2
+
+O O - 
+O X - 
+X X X 
+^
+X win
+Number of empty cells: 2
+
+X - X 
+X O - 
+X O O 
+^
+X win
+Number of empty cells: 2
+
+O - X 
+X X X 
+O - O 
+^
+X win
+Number of empty cells: 2
+
+X O X 
+- X O 
+X - O 
+^
+X win
+Number of empty cells: 2
+
+O - - 
+X X X 
+- O - 
+^
+X win
+Number of empty cells: 4
+
+X O X 
+X O X 
+O O - 
+^
+O win
+Number of empty cells: 1
+
+X - O 
+X O - 
+O X - 
+^
+O win
+Number of empty cells: 3
+
+O O - 
+X - O 
+X X X 
+^
+X win
+Number of empty cells: 2
+
+X - O 
+- X O 
+O X X 
+^
+X win
+Number of empty cells: 2
+
+X - X 
+O X O 
+X - O 
+^
+X win
+Number of empty cells: 2
+
+X - O 
+X - O 
+- X O 
+^
+O win
+Number of empty cells: 3
+
+- - O 
+X X X 
+- O - 
+^
+X win
+Number of empty cells: 4
+
+O X X 
+O O O 
+X - X 
+^
+O win
+Number of empty cells: 1
+
+X X O 
+X X O 
+- O O 
+^
+O win
+Number of empty cells: 1
+
+O O - 
+X X X 
+O - X 
+^
+X win
+Number of empty cells: 2
+
+O X X 
+O X X 
+O - O 
+^
+O win
+Number of empty cells: 1
+
+X X X 
+X O O 
+O X O 
+^
+X win
+Number of empty cells: 0
+
+X O - 
+O X - 
+- - X 
+^
+X win
+Number of empty cells: 4
+
+X X O 
+X O O 
+O - X 
+^
+O win
+Number of empty cells: 1
+
+X O O 
+X X X 
+- O - 
+^
+X win
+Number of empty cells: 2
+
+- - - 
+O O - 
+X X X 
+^
+X win
+Number of empty cells: 4
+
+X X X 
+O - X 
+O O - 
+^
+X win
+Number of empty cells: 2
+
+X X X 
+O - O 
+- X O 
+^
+X win
+Number of empty cells: 2
+
+- X - 
+X - X 
+O O O 
+^
+O win
+Number of empty cells: 3
+
+- O X 
+O - O 
+X X X 
+^
+X win
+Number of empty cells: 2
+
+- O - 
+O X O 
+X X X 
+^
+X win
+Number of empty cells: 2
+
+X - - 
+O X - 
+O - X 
+^
+X win
+Number of empty cells: 4
+
+O X X 
+O X - 
+O O X 
+^
+O win
+Number of empty cells: 1
+
+- O O 
+X X X 
+- - - 
+^
+X win
+Number of empty cells: 4
+
+O X X 
+- X - 
+X O O 
+^
+X win
+Number of empty cells: 2
+
+X - - 
+X O - 
+X - O 
+^
+X win
+Number of empty cells: 4
+
+X O X 
+- O O 
+X O X 
+^
+O win
+Number of empty cells: 1
+
+O O X 
+O X X 
+X O X 
+^
+X win
+Number of empty cells: 0
+
+O - O 
+O X X 
+O X X 
+^
+O win
+Number of empty cells: 1
+
+O O O 
+X - X 
+X - - 
+^
+O win
+Number of empty cells: 3
+
+O O X 
+O O X 
+X X X 
+^
+X win
+Number of empty cells: 0
+
+- X - 
+O O O 
+X X - 
+^
+O win
+Number of empty cells: 3
+
+O X - 
+X X O 
+- X O 
+^
+X win
+Number of empty cells: 2
+
+O X - 
+O O X 
+X X O 
+^
+O win
+Number of empty cells: 1
+
+O X O 
+O X X 
+- X - 
+^
+X win
+Number of empty cells: 2
+
+- - O 
+X O - 
+O X X 
+^
+O win
+Number of empty cells: 3
+
+X - X 
+- X O 
+X O O 
+^
+X win
+Number of empty cells: 2
+
+O - O 
+X X X 
+- - - 
+^
+X win
+Number of empty cells: 4
+
+X O X 
+X - X 
+O O O 
+^
+O win
+Number of empty cells: 1
+
+- - O 
+X X X 
+- - O 
+^
+X win
+Number of empty cells: 4
+
+X X - 
+- X O 
+O O X 
+^
+X win
+Number of empty cells: 2
+
+X O X 
+O X - 
+- O X 
+^
+X win
+Number of empty cells: 2
+
+O O O 
+X - X 
+X X O 
+^
+O win
+Number of empty cells: 1
+
+X O O 
+X O X 
+O X - 
+^
+O win
+Number of empty cells: 1
+
+O O X 
+X O - 
+X X O 
+^
+O win
+Number of empty cells: 1
+
+X O X 
+O X X 
+O O X 
+^
+X win
+Number of empty cells: 0
+
+X O X 
+O O O 
+- X X 
+^
+O win
+Number of empty cells: 1
+
+X O O 
+X X - 
+X - O 
+^
+X win
+Number of empty cells: 2
+
+- O X 
+O X O 
+X X - 
+^
+X win
+Number of empty cells: 2
+
+X O X 
+O O O 
+X - X 
+^
+O win
+Number of empty cells: 1
+
+O X O 
+O X - 
+X X - 
+^
+X win
+Number of empty cells: 2
+
+O O - 
+X O X 
+X O X 
+^
+O win
+Number of empty cells: 1
+
+- X X 
+O O X 
+O - X 
+^
+X win
+Number of empty cells: 2
+
+O X O 
+X O X 
+O X - 
+^
+O win
+Number of empty cells: 1
+
+O X - 
+O - X 
+O X - 
+^
+O win
+Number of empty cells: 3
+
+O - O 
+X X X 
+O X - 
+^
+X win
+Number of empty cells: 2
+
+X X O 
+X O X 
+O - O 
+^
+O win
+Number of empty cells: 1
+
+- X X 
+X X O 
+O O O 
+^
+O win
+Number of empty cells: 1
+
+O X X 
+O O O 
+- X X 
+^
+O win
+Number of empty cells: 1
+
+- X O 
+O X - 
+X X O 
+^
+X win
+Number of empty cells: 2
+
+X O - 
+X X O 
+X O - 
+^
+X win
+Number of empty cells: 2
+
+X X X 
+O - - 
+- O - 
+^
+X win
+Number of empty cells: 4
+
+- - X 
+- X X 
+O O O 
+^
+O win
+Number of empty cells: 3
+
+X O X 
+X O - 
+- O - 
+^
+O win
+Number of empty cells: 3
+
+O X X 
+O O X 
+O X - 
+^
+O win
+Number of empty cells: 1
+
+O - X 
+X O O 
+X X O 
+^
+O win
+Number of empty cells: 1
+
+X O - 
+- X - 
+O - X 
+^
+X win
+Number of empty cells: 4
+
+- X O 
+X X X 
+- O O 
+^
+X win
+Number of empty cells: 2
+
+X O O 
+X - X 
+X O - 
+^
+X win
+Number of empty cells: 2
+
+O - X 
+O X X 
+X O - 
+^
+X win
+Number of empty cells: 2
+
+X X X 
+O X - 
+- O O 
+^
+X win
+Number of empty cells: 2
+
+X - O 
+O O - 
+X X X 
+^
+X win
+Number of empty cells: 2
+
+X O X 
+X O X 
+- O O 
+^
+O win
+Number of empty cells: 1
+
+X X X 
+O X O 
+X O O 
+^
+X win
+Number of empty cells: 0
+
+X - - 
+- X O 
+- O X 
+^
+X win
+Number of empty cells: 4
+
+O X X 
+O - X 
+O X O 
+^
+O win
+Number of empty cells: 1
+
+X X X 
+O O X 
+O O X 
+^
+X win
+Number of empty cells: 0
+
+X O O 
+X X X 
+- - O 
+^
+X win
+Number of empty cells: 2
+
+X - O 
+O X X 
+O - X 
+^
+X win
+Number of empty cells: 2
+
+X O - 
+X - - 
+X - O 
+^
+X win
+Number of empty cells: 4
+
+- - X 
+O O O 
+X - X 
+^
+O win
+Number of empty cells: 3
+
+- O X 
+O - X 
+- - X 
+^
+X win
+Number of empty cells: 4
+
+O X O 
+- X O 
+X X - 
+^
+X win
+Number of empty cells: 2
+
+O - O 
+X X X 
+X - O 
+^
+X win
+Number of empty cells: 2
+
+O O O 
+X X - 
+X O X 
+^
+O win
+Number of empty cells: 1
+
+- - X 
+O O X 
+O X X 
+^
+X win
+Number of empty cells: 2
+
+X O O 
+- X - 
+- - X 
+^
+X win
+Number of empty cells: 4
+
+X X X 
+X O - 
+O - O 
+^
+X win
+Number of empty cells: 2
+
+O O X 
+X X X 
+- O - 
+^
+X win
+Number of empty cells: 2
+
+X O O 
+- X - 
+X O X 
+^
+X win
+Number of empty cells: 2
+
+X X O 
+O X O 
+O X X 
+^
+X win
+Number of empty cells: 0
+
+O X - 
+O - - 
+O X X 
+^
+O win
+Number of empty cells: 3
+
+O O O 
+- - X 
+X - X 
+^
+O win
+Number of empty cells: 3
+
+O X - 
+O X X 
+O O X 
+^
+O win
+Number of empty cells: 1
+
+- X O 
+O X O 
+X X - 
+^
+X win
+Number of empty cells: 2
+
+O - X 
+O - X 
+- - X 
+^
+X win
+Number of empty cells: 4
+
+O - X 
+O - X 
+X O X 
+^
+X win
+Number of empty cells: 2
+
+- X O 
+X - O 
+X - O 
+^
+O win
+Number of empty cells: 3
+
+X X X 
+X O - 
+O O - 
+^
+X win
+Number of empty cells: 2
+
+X - - 
+X - - 
+X O O 
+^
+X win
+Number of empty cells: 4
+
+X X X 
+O X - 
+O O - 
+^
+X win
+Number of empty cells: 2
+
+O - O 
+X X O 
+X X O 
+^
+O win
+Number of empty cells: 1
+
+X - O 
+X O X 
+X O - 
+^
+X win
+Number of empty cells: 2
+
+X X X 
+X O O 
+- - O 
+^
+X win
+Number of empty cells: 2
+
+X O O 
+X - - 
+X O X 
+^
+X win
+Number of empty cells: 2
+
+X X X 
+O - O 
+O X - 
+^
+X win
+Number of empty cells: 2
+
+X O - 
+X O - 
+X - - 
+^
+X win
+Number of empty cells: 4
+
+X O - 
+X X O 
+- O X 
+^
+X win
+Number of empty cells: 2
+
+X X X 
+O X - 
+O - O 
+^
+X win
+Number of empty cells: 2
+
+- O - 
+X O X 
+- O X 
+^
+O win
+Number of empty cells: 3
+
+X X O 
+O X X 
+O X O 
+^
+X win
+Number of empty cells: 0
+
+X - O 
+X O X 
+O - - 
+^
+O win
+Number of empty cells: 3
+
+X - - 
+X - O 
+X O - 
+^
+X win
+Number of empty cells: 4
+
+- X O 
+X O O 
+O X X 
+^
+O win
+Number of empty cells: 1
+
+O X - 
+- X - 
+- X O 
+^
+X win
+Number of empty cells: 4
+
+- X O 
+O X - 
+- X - 
+^
+X win
+Number of empty cells: 4
+
+- - X 
+O X X 
+X O O 
+^
+X win
+Number of empty cells: 2
+
+O - - 
+X X X 
+X O O 
+^
+X win
+Number of empty cells: 2
+
+O - X 
+X X - 
+X O O 
+^
+X win
+Number of empty cells: 2
+
+- - O 
+X O X 
+O - X 
+^
+O win
+Number of empty cells: 3
+
+O O - 
+X O X 
+X X O 
+^
+O win
+Number of empty cells: 1
+
+O X X 
+- X O 
+X - O 
+^
+X win
+Number of empty cells: 2
+
+X - O 
+X X X 
+O - O 
+^
+X win
+Number of empty cells: 2
+
+X X O 
+O O O 
+X X - 
+^
+O win
+Number of empty cells: 1
+
+O - X 
+- - X 
+O - X 
+^
+X win
+Number of empty cells: 4
+
+- X O 
+- O - 
+O X X 
+^
+O win
+Number of empty cells: 3
+
+X O O 
+O - - 
+X X X 
+^
+X win
+Number of empty cells: 2
+
+O O X 
+- - X 
+- - X 
+^
+X win
+Number of empty cells: 4
+
+X - X 
+O X - 
+X O O 
+^
+X win
+Number of empty cells: 2
+
+- X O 
+O X X 
+O X - 
+^
+X win
+Number of empty cells: 2
+
+O - X 
+O X O 
+X X - 
+^
+X win
+Number of empty cells: 2
+
+X X X 
+O X O 
+- O - 
+^
+X win
+Number of empty cells: 2
+
+- O - 
+X O O 
+X X X 
+^
+X win
+Number of empty cells: 2
+
+- O X 
+O X X 
+- O X 
+^
+X win
+Number of empty cells: 2
+
+O X O 
+O O X 
+X X X 
+^
+X win
+Number of empty cells: 0
+
+X X X 
+X - O 
+O - O 
+^
+X win
+Number of empty cells: 2
+
+- X O 
+X X O 
+- - O 
+^
+O win
+Number of empty cells: 3
+
+O O X 
+O X - 
+X X - 
+^
+X win
+Number of empty cells: 2
+
+- O X 
+- - X 
+O - X 
+^
+X win
+Number of empty cells: 4
+
+- X X 
+- X O 
+X O O 
+^
+X win
+Number of empty cells: 2
+
+- X X 
+O O O 
+- - X 
+^
+O win
+Number of empty cells: 3
+
+O - X 
+O X X 
+X - O 
+^
+X win
+Number of empty cells: 2
+
+X - O 
+- X O 
+- - X 
+^
+X win
+Number of empty cells: 4
+
+O O O 
+X X O 
+X - X 
+^
+O win
+Number of empty cells: 1
+
+- - O 
+X X X 
+O X O 
+^
+X win
+Number of empty cells: 2
+
+O - X 
+O - X 
+O X - 
+^
+O win
+Number of empty cells: 3
+
+O - X 
+- X X 
+O O X 
+^
+X win
+Number of empty cells: 2
+
+X X X 
+- O - 
+O X O 
+^
+X win
+Number of empty cells: 2
+
+O - - 
+- - O 
+X X X 
+^
+X win
+Number of empty cells: 4
+
+X - X 
+O O O 
+X X O 
+^
+O win
+Number of empty cells: 1
+
+X X - 
+X O - 
+X O O 
+^
+X win
+Number of empty cells: 2
+
+O O O 
+X X O 
+- X X 
+^
+O win
+Number of empty cells: 1
+
+X X X 
+X - O 
+- O O 
+^
+X win
+Number of empty cells: 2
+
+- - O 
+X X X 
+O O X 
+^
+X win
+Number of empty cells: 2
+
+- O O 
+X X X 
+O X - 
+^
+X win
+Number of empty cells: 2
+
+O O O 
+O X X 
+X - X 
+^
+O win
+Number of empty cells: 1
+
+O O - 
+- O X 
+X X X 
+^
+X win
+Number of empty cells: 2
+
+O X O 
+- X - 
+- X - 
+^
+X win
+Number of empty cells: 4
+
+- O - 
+- O X 
+X O X 
+^
+O win
+Number of empty cells: 3
+
+X X X 
+- O - 
+- - O 
+^
+X win
+Number of empty cells: 4
+
+X X O 
+- O O 
+X X O 
+^
+O win
+Number of empty cells: 1
+
+- - X 
+- X O 
+X O - 
+^
+X win
+Number of empty cells: 4
+
+O X - 
+O X - 
+- X - 
+^
+X win
+Number of empty cells: 4
+
+- O X 
+O X - 
+X - - 
+^
+X win
+Number of empty cells: 4
+
+O O O 
+X X O 
+X X - 
+^
+O win
+Number of empty cells: 1
+
+O X O 
+X O - 
+O X X 
+^
+O win
+Number of empty cells: 1
+
+O X X 
+O X X 
+O O - 
+^
+O win
+Number of empty cells: 1
+
+X - O 
+X O O 
+X X - 
+^
+X win
+Number of empty cells: 2
+
+X X O 
+X O O 
+X - - 
+^
+X win
+Number of empty cells: 2
+
+X O - 
+O O - 
+X X X 
+^
+X win
+Number of empty cells: 2
+
+- O X 
+O - X 
+X O X 
+^
+X win
+Number of empty cells: 2
+
+O O X 
+X O O 
+X X X 
+^
+X win
+Number of empty cells: 0
+
+- X X 
+X - - 
+O O O 
+^
+O win
+Number of empty cells: 3
+
+- - O 
+O - - 
+X X X 
+^
+X win
+Number of empty cells: 4
+
+O - - 
+- O - 
+X X X 
+^
+X win
+Number of empty cells: 4
+
+O X - 
+O - O 
+X X X 
+^
+X win
+Number of empty cells: 2
+
+X O X 
+- O - 
+- O X 
+^
+O win
+Number of empty cells: 3
+
+X O - 
+X O X 
+- O - 
+^
+O win
+Number of empty cells: 3
+
+X - O 
+O - O 
+X X X 
+^
+X win
+Number of empty cells: 2
+
+- X X 
+O X O 
+- X O 
+^
+X win
+Number of empty cells: 2
+
+X - X 
+O O O 
+O X X 
+^
+O win
+Number of empty cells: 1
+
+- - X 
+- - X 
+O O X 
+^
+X win
+Number of empty cells: 4
+
+O O X 
+O - - 
+X X X 
+^
+X win
+Number of empty cells: 2
+
+X O O 
+O X - 
+X - X 
+^
+X win
+Number of empty cells: 2
+
+X X X 
+- X O 
+O - O 
+^
+X win
+Number of empty cells: 2
+
+- X O 
+- O X 
+O - X 
+^
+O win
+Number of empty cells: 3
+
+X X O 
+- X O 
+O X - 
+^
+X win
+Number of empty cells: 2
+
+O - X 
+X X O 
+X - O 
+^
+X win
+Number of empty cells: 2
+
+O X X 
+- O - 
+- X O 
+^
+O win
+Number of empty cells: 3
+
+X - X 
+O X O 
+- O X 
+^
+X win
+Number of empty cells: 2
+
+O O O 
+X O X 
+- X X 
+^
+O win
+Number of empty cells: 1
+
+O O O 
+- - X 
+- X X 
+^
+O win
+Number of empty cells: 3
+
+X - O 
+X O X 
+O O X 
+^
+O win
+Number of empty cells: 1
+
+X X X 
+X O O 
+X O O 
+^
+X win
+Number of empty cells: 0
+
+X O X 
+O X O 
+X O X 
+^
+X win
+Number of empty cells: 0
+
+- - X 
+O X O 
+X O X 
+^
+X win
+Number of empty cells: 2
+
+X O - 
+- X X 
+O O X 
+^
+X win
+Number of empty cells: 2
+
+- - X 
+O X O 
+X X O 
+^
+X win
+Number of empty cells: 2
+
+- - O 
+X X O 
+- X O 
+^
+O win
+Number of empty cells: 3
+
+O X X 
+O X - 
+- X O 
+^
+X win
+Number of empty cells: 2
+
+X X X 
+O O - 
+X - O 
+^
+X win
+Number of empty cells: 2
+
+X X O 
+X X - 
+O O O 
+^
+O win
+Number of empty cells: 1
+
+- - O 
+X - O 
+X X O 
+^
+O win
+Number of empty cells: 3
+
+O X X 
+O O O 
+X X - 
+^
+O win
+Number of empty cells: 1
+
+X - O 
+- O - 
+O X X 
+^
+O win
+Number of empty cells: 3
+
+O - O 
+X X X 
+- X O 
+^
+X win
+Number of empty cells: 2
+
+O X X 
+- X - 
+O X O 
+^
+X win
+Number of empty cells: 2
+
+- X O 
+O X X 
+- X O 
+^
+X win
+Number of empty cells: 2
+
+X O - 
+- X O 
+- - X 
+^
+X win
+Number of empty cells: 4
+
+O X O 
+O - - 
+X X X 
+^
+X win
+Number of empty cells: 2
+
+X X O 
+- X O 
+- O X 
+^
+X win
+Number of empty cells: 2
+
+- O X 
+X X X 
+O O - 
+^
+X win
+Number of empty cells: 2
+
+O - O 
+X X X 
+O - X 
+^
+X win
+Number of empty cells: 2
+
+- - - 
+X X X 
+- O O 
+^
+X win
+Number of empty cells: 4
+
+O O O 
+- X - 
+X X - 
+^
+O win
+Number of empty cells: 3
+
+X - - 
+- X O 
+O - X 
+^
+X win
+Number of empty cells: 4
+
+O - X 
+- X X 
+X O O 
+^
+X win
+Number of empty cells: 2
+
+X - O 
+O X - 
+O X X 
+^
+X win
+Number of empty cells: 2
+
+X X X 
+- O - 
+O O X 
+^
+X win
+Number of empty cells: 2
+
+X X O 
+O X - 
+- O X 
+^
+X win
+Number of empty cells: 2
+
+- O X 
+- X - 
+X O - 
+^
+X win
+Number of empty cells: 4
+
+O O - 
+X X X 
+X O - 
+^
+X win
+Number of empty cells: 2
+
+- O O 
+X X X 
+X O - 
+^
+X win
+Number of empty cells: 2
+
+X - O 
+X X X 
+O O - 
+^
+X win
+Number of empty cells: 2
+
+X - X 
+O O X 
+O - X 
+^
+X win
+Number of empty cells: 2
+
+- O O 
+- - - 
+X X X 
+^
+X win
+Number of empty cells: 4
+
+- X X 
+O O X 
+- O X 
+^
+X win
+Number of empty cells: 2
+
+O X O 
+- O X 
+X X O 
+^
+O win
+Number of empty cells: 1
+
+O X X 
+- O X 
+- - O 
+^
+O win
+Number of empty cells: 3
+
+O X X 
+O - X 
+O - - 
+^
+O win
+Number of empty cells: 3
+
+X X O 
+X - - 
+X O O 
+^
+X win
+Number of empty cells: 2
+
+- X X 
+O O O 
+- X - 
+^
+O win
+Number of empty cells: 3
+
+- X O 
+X X - 
+O X O 
+^
+X win
+Number of empty cells: 2
+
+X X O 
+X - O 
+O X O 
+^
+O win
+Number of empty cells: 1
+
+O X O 
+X X X 
+- - O 
+^
+X win
+Number of empty cells: 2
+
+O O - 
+X X X 
+X - O 
+^
+X win
+Number of empty cells: 2
+
+O - - 
+O X X 
+O X - 
+^
+O win
+Number of empty cells: 3
+
+X - X 
+X - O 
+X O O 
+^
+X win
+Number of empty cells: 2
+
+- - O 
+- O - 
+X X X 
+^
+X win
+Number of empty cells: 4
+
+O - X 
+O X X 
+O X O 
+^
+O win
+Number of empty cells: 1
+
+- X X 
+O X - 
+O X O 
+^
+X win
+Number of empty cells: 2
+
+O O X 
+- O - 
+X X X 
+^
+X win
+Number of empty cells: 2
+
+O - X 
+- O X 
+X - O 
+^
+O win
+Number of empty cells: 3
+
+X X X 
+O - - 
+O X O 
+^
+X win
+Number of empty cells: 2
+
+O X O 
+- X X 
+O X - 
+^
+X win
+Number of empty cells: 2
+
+O - X 
+O O - 
+X X X 
+^
+X win
+Number of empty cells: 2
+
+X O X 
+- X O 
+O - X 
+^
+X win
+Number of empty cells: 2
+
+O O X 
+X X - 
+X - O 
+^
+X win
+Number of empty cells: 2
+
+X O X 
+- X - 
+O O X 
+^
+X win
+Number of empty cells: 2
+
+X O O 
+O X X 
+- - X 
+^
+X win
+Number of empty cells: 2
+
+O X O 
+X O X 
+- X O 
+^
+O win
+Number of empty cells: 1
+
+X X - 
+- - X 
+O O O 
+^
+O win
+Number of empty cells: 3
+
+O X X 
+- O O 
+X X O 
+^
+O win
+Number of empty cells: 1
+
+O X - 
+- O O 
+X X X 
+^
+X win
+Number of empty cells: 2
+
+O - X 
+O X X 
+- O X 
+^
+X win
+Number of empty cells: 2
+
+- - - 
+- O O 
+X X X 
+^
+X win
+Number of empty cells: 4
+
+X - X 
+O X O 
+X O - 
+^
+X win
+Number of empty cells: 2
+
+- - X 
+X - X 
+O O O 
+^
+O win
+Number of empty cells: 3
+
+X X X 
+O X O 
+- - O 
+^
+X win
+Number of empty cells: 2
+
+- O X 
+- X X 
+X O O 
+^
+X win
+Number of empty cells: 2
+
+- X - 
+X X - 
+O O O 
+^
+O win
+Number of empty cells: 3
+
+X O - 
+X X X 
+O - O 
+^
+X win
+Number of empty cells: 2
+
+O O X 
+- X X 
+X - O 
+^
+X win
+Number of empty cells: 2
+
+X O - 
+X O O 
+X X - 
+^
+X win
+Number of empty cells: 2
+
+- O X 
+O O - 
+X X X 
+^
+X win
+Number of empty cells: 2
+
+X X O 
+O O - 
+O X X 
+^
+O win
+Number of empty cells: 1
+
+- O X 
+O X O 
+X - X 
+^
+X win
+Number of empty cells: 2
+
+- O X 
+- O X 
+- - X 
+^
+X win
+Number of empty cells: 4
+
+X O X 
+- O X 
+X O O 
+^
+O win
+Number of empty cells: 1
+
+- X - 
+O X O 
+X X O 
+^
+X win
+Number of empty cells: 2
+
+O - X 
+O X O 
+O X X 
+^
+O win
+Number of empty cells: 1
+
+- - X 
+O O O 
+X X - 
+^
+O win
+Number of empty cells: 3
+
+- X X 
+O X O 
+O X - 
+^
+X win
+Number of empty cells: 2
+
+O X X 
+- X X 
+O O O 
+^
+O win
+Number of empty cells: 1
+
+O O O 
+X - - 
+X X - 
+^
+O win
+Number of empty cells: 3
+
+X X X 
+O - O 
+X - O 
+^
+X win
+Number of empty cells: 2
+
+- O X 
+X O - 
+- O X 
+^
+O win
+Number of empty cells: 3
+
+O - X 
+X O - 
+- X O 
+^
+O win
+Number of empty cells: 3
+
+O X X 
+O X O 
+- X - 
+^
+X win
+Number of empty cells: 2
+
+X - - 
+- X - 
+O O X 
+^
+X win
+Number of empty cells: 4
+
+X O O 
+X - O 
+X - X 
+^
+X win
+Number of empty cells: 2
+
+O - X 
+- O - 
+X X O 
+^
+O win
+Number of empty cells: 3
+
+- O - 
+O - - 
+X X X 
+^
+X win
+Number of empty cells: 4
+
+- O - 
+X X X 
+- - O 
+^
+X win
+Number of empty cells: 4
+
+X X O 
+X O - 
+X - O 
+^
+X win
+Number of empty cells: 2
+
+X O X 
+O X O 
+X - - 
+^
+X win
+Number of empty cells: 2
+
+X X X 
+O O - 
+X O - 
+^
+X win
+Number of empty cells: 2
+
+- X - 
+O X X 
+O X O 
+^
+X win
+Number of empty cells: 2
+
+X - X 
+- - X 
+O O O 
+^
+O win
+Number of empty cells: 3
+
+X O - 
+X X O 
+O - X 
+^
+X win
+Number of empty cells: 2
+
+O - X 
+- X - 
+X O - 
+^
+X win
+Number of empty cells: 4
+
+O - - 
+X X X 
+- - O 
+^
+X win
+Number of empty cells: 4
+
+X O - 
+O O X 
+X O X 
+^
+O win
+Number of empty cells: 1
+
+O - O 
+X - O 
+X X X 
+^
+X win
+Number of empty cells: 2
+
+O O O 
+X O X 
+X - X 
+^
+O win
+Number of empty cells: 1
+
+X - X 
+X - - 
+O O O 
+^
+O win
+Number of empty cells: 3
+
+X X O 
+- X - 
+O O X 
+^
+X win
+Number of empty cells: 2
+
+X - O 
+X - O 
+X - - 
+^
+X win
+Number of empty cells: 4
+
+O - X 
+- X O 
+X X O 
+^
+X win
+Number of empty cells: 2
+
+O X - 
+O O X 
+O X X 
+^
+O win
+Number of empty cells: 1
+
+- O X 
+X O X 
+- O - 
+^
+O win
+Number of empty cells: 3
+
+O X X 
+- O X 
+- O X 
+^
+X win
+Number of empty cells: 2
+
+- - - 
+X X X 
+O - O 
+^
+X win
+Number of empty cells: 4
+
+X X X 
+O X O 
+O O X 
+^
+X win
+Number of empty cells: 0
+
+O O O 
+X - - 
+- X X 
+^
+O win
+Number of empty cells: 3
+
+X X O 
+X O - 
+X O - 
+^
+X win
+Number of empty cells: 2
+
+X X X 
+- - - 
+- O O 
+^
+X win
+Number of empty cells: 4
+
+- - X 
+- X O 
+X - O 
+^
+X win
+Number of empty cells: 4
+
+X O X 
+- X O 
+X O - 
+^
+X win
+Number of empty cells: 2
+
+O X X 
+X X - 
+O O O 
+^
+O win
+Number of empty cells: 1
+
+X - - 
+O X O 
+- - X 
+^
+X win
+Number of empty cells: 4
+
+X X O 
+- O O 
+O X X 
+^
+O win
+Number of empty cells: 1
+
+X X - 
+- X - 
+O O O 
+^
+O win
+Number of empty cells: 3
+
+X X O 
+X - X 
+O O O 
+^
+O win
+Number of empty cells: 1
+
+X X X 
+O O X 
+O - - 
+^
+X win
+Number of empty cells: 2
+
+X O O 
+X O X 
+O - X 
+^
+O win
+Number of empty cells: 1
+
+X O O 
+- X O 
+X - X 
+^
+X win
+Number of empty cells: 2
+
+- - O 
+X X X 
+X O O 
+^
+X win
+Number of empty cells: 2
+
+- X O 
+X - O 
+- X O 
+^
+O win
+Number of empty cells: 3
+
+- X O 
+O - O 
+X X X 
+^
+X win
+Number of empty cells: 2
+
+O X - 
+- X O 
+X X O 
+^
+X win
+Number of empty cells: 2
+
+- O - 
+X O X 
+X O - 
+^
+O win
+Number of empty cells: 3
+
+X X O 
+O O X 
+O X - 
+^
+O win
+Number of empty cells: 1
+
+- O - 
+X X X 
+O O X 
+^
+X win
+Number of empty cells: 2
+
+X O - 
+X - O 
+X - - 
+^
+X win
+Number of empty cells: 4
+
+X O O 
+- X X 
+- O X 
+^
+X win
+Number of empty cells: 2
+
+X O - 
+- O O 
+X X X 
+^
+X win
+Number of empty cells: 2
+
+O X - 
+X O O 
+X X O 
+^
+O win
+Number of empty cells: 1
+
+X X X 
+- O - 
+O - - 
+^
+X win
+Number of empty cells: 4
+
+X - O 
+O X - 
+X O X 
+^
+X win
+Number of empty cells: 2
+
+O O X 
+- X X 
+X O - 
+^
+X win
+Number of empty cells: 2
+
+- O O 
+O - X 
+X X X 
+^
+X win
+Number of empty cells: 2
+
+X O X 
+O O X 
+- - X 
+^
+X win
+Number of empty cells: 2
+
+X X X 
+- O X 
+- O O 
+^
+X win
+Number of empty cells: 2
+
+O O X 
+X O X 
+- - X 
+^
+X win
+Number of empty cells: 2
+
+O O X 
+O X X 
+- - X 
+^
+X win
+Number of empty cells: 2
+
+X - O 
+X O O 
+O X X 
+^
+O win
+Number of empty cells: 1
+
+O X - 
+O X O 
+X X - 
+^
+X win
+Number of empty cells: 2
+
+- O O 
+X O X 
+O X X 
+^
+O win
+Number of empty cells: 1
+
+X O O 
+X - O 
+X X - 
+^
+X win
+Number of empty cells: 2
+
+- O O 
+X O - 
+X X X 
+^
+X win
+Number of empty cells: 2
+
+- O - 
+X X X 
+- O - 
+^
+X win
+Number of empty cells: 4
+
+- X X 
+O X O 
+X - O 
+^
+X win
+Number of empty cells: 2
+
+- O X 
+- O X 
+O X X 
+^
+X win
+Number of empty cells: 2
+
+- X O 
+- - O 
+X X O 
+^
+O win
+Number of empty cells: 3
+
+X X O 
+- - O 
+- X O 
+^
+O win
+Number of empty cells: 3
+
+X X X 
+- - O 
+O O X 
+^
+X win
+Number of empty cells: 2
+
+- O O 
+X X X 
+- O X 
+^
+X win
+Number of empty cells: 2
+
+X O - 
+O X O 
+X - X 
+^
+X win
+Number of empty cells: 2
+
+- O X 
+O X - 
+X O X 
+^
+X win
+Number of empty cells: 2
+
+O - O 
+X X X 
+X O - 
+^
+X win
+Number of empty cells: 2
+
+- O O 
+X O X 
+X O X 
+^
+O win
+Number of empty cells: 1
+
+- X - 
+O X - 
+O X - 
+^
+X win
+Number of empty cells: 4
+
+- X - 
+- X - 
+O X O 
+^
+X win
+Number of empty cells: 4
+
+X - O 
+- O O 
+X X X 
+^
+X win
+Number of empty cells: 2
+
+O X - 
+X O X 
+- - O 
+^
+O win
+Number of empty cells: 3
+
+- X - 
+O O O 
+- X X 
+^
+O win
+Number of empty cells: 3
+
+X - O 
+X X O 
+O - X 
+^
+X win
+Number of empty cells: 2
+
+- O X 
+- O O 
+X X X 
+^
+X win
+Number of empty cells: 2
+
+- O X 
+X X O 
+X - O 
+^
+X win
+Number of empty cells: 2
+
+- O X 
+- X X 
+O O X 
+^
+X win
+Number of empty cells: 2
+
+- - X 
+O X - 
+X O - 
+^
+X win
+Number of empty cells: 4
+
+O X - 
+- X O 
+O X X 
+^
+X win
+Number of empty cells: 2
+
+- X X 
+- O X 
+O O X 
+^
+X win
+Number of empty cells: 2
+
+O X O 
+X O - 
+X X O 
+^
+O win
+Number of empty cells: 1
+
+X - - 
+X O O 
+X X O 
+^
+X win
+Number of empty cells: 2
+
+O O - 
+O - X 
+X X X 
+^
+X win
+Number of empty cells: 2
+
+- O X 
+X X X 
+- O O 
+^
+X win
+Number of empty cells: 2
+
+- X X 
+- X - 
+O O O 
+^
+O win
+Number of empty cells: 3
+
+X X - 
+X O X 
+O O O 
+^
+O win
+Number of empty cells: 1
+
+- O X 
+X - X 
+O O X 
+^
+X win
+Number of empty cells: 2
+
+O - X 
+X X X 
+- O O 
+^
+X win
+Number of empty cells: 2
+
+O - O 
+- X O 
+X X X 
+^
+X win
+Number of empty cells: 2
+
+X - O 
+X - X 
+X O O 
+^
+X win
+Number of empty cells: 2
+
+O O X 
+- X O 
+X X - 
+^
+X win
+Number of empty cells: 2
+
+- O X 
+X X - 
+X O O 
+^
+X win
+Number of empty cells: 2
+
+- - O 
+O O X 
+X X X 
+^
+X win
+Number of empty cells: 2
+
+- O X 
+O X X 
+X O - 
+^
+X win
+Number of empty cells: 2
+
+O X - 
+- X X 
+O X O 
+^
+X win
+Number of empty cells: 2
+
+- X - 
+- X O 
+- X O 
+^
+X win
+Number of empty cells: 4
+
+X O X 
+O X - 
+X - O 
+^
+X win
+Number of empty cells: 2
+
+- O O 
+O X - 
+X X X 
+^
+X win
+Number of empty cells: 2
+
+X - O 
+X X - 
+X O O 
+^
+X win
+Number of empty cells: 2
+
+- O - 
+X X X 
+X O O 
+^
+X win
+Number of empty cells: 2
+
+X - - 
+X - X 
+O O O 
+^
+O win
+Number of empty cells: 3
+
+X X X 
+O - O 
+X O - 
+^
+X win
+Number of empty cells: 2
+
+X X - 
+O O O 
+X O X 
+^
+O win
+Number of empty cells: 1
+
+X O O 
+X X X 
+O - - 
+^
+X win
+Number of empty cells: 2
+
+X O - 
+X X X 
+- O O 
+^
+X win
+Number of empty cells: 2
+
+X X - 
+O O O 
+- - X 
+^
+O win
+Number of empty cells: 3
+
+X O - 
+O X O 
+- X X 
+^
+X win
+Number of empty cells: 2
+
+X - O 
+X O - 
+X O X 
+^
+X win
+Number of empty cells: 2
+
+O X X 
+O X - 
+X - O 
+^
+X win
+Number of empty cells: 2
+
+X O - 
+O X - 
+X O X 
+^
+X win
+Number of empty cells: 2
+
+X X - 
+O X O 
+- O X 
+^
+X win
+Number of empty cells: 2
+
+O - O 
+X O X 
+O X X 
+^
+O win
+Number of empty cells: 1
+
+X O - 
+- X O 
+O X X 
+^
+X win
+Number of empty cells: 2
+
+O - - 
+X O X 
+X - O 
+^
+O win
+Number of empty cells: 3
+
+X X X 
+O X O 
+O - - 
+^
+X win
+Number of empty cells: 2
+
+O - - 
+X X X 
+O - - 
+^
+X win
+Number of empty cells: 4
+
+O X - 
+X X - 
+O X O 
+^
+X win
+Number of empty cells: 2
+
+X - O 
+X O - 
+X X O 
+^
+X win
+Number of empty cells: 2
+
+X X O 
+- X O 
+- - O 
+^
+O win
+Number of empty cells: 3
+
+O - O 
+O - X 
+X X X 
+^
+X win
+Number of empty cells: 2
+
+- X O 
+X O - 
+O X - 
+^
+O win
+Number of empty cells: 3
+
+- O - 
+X X X 
+O - - 
+^
+X win
+Number of empty cells: 4
+
+- O X 
+O O X 
+- X X 
+^
+X win
+Number of empty cells: 2
+
+O - X 
+X O X 
+O - X 
+^
+X win
+Number of empty cells: 2
+
+O - X 
+- O X 
+O X X 
+^
+X win
+Number of empty cells: 2
+
+X - X 
+O O X 
+- O X 
+^
+X win
+Number of empty cells: 2
+
+X O X 
+- X O 
+- O X 
+^
+X win
+Number of empty cells: 2
+
+O - X 
+- X - 
+X - O 
+^
+X win
+Number of empty cells: 4
+
+X O O 
+X - X 
+X - O 
+^
+X win
+Number of empty cells: 2
+
+O X - 
+X X O 
+O X - 
+^
+X win
+Number of empty cells: 2
+
+X O O 
+- X O 
+- X X 
+^
+X win
+Number of empty cells: 2
+
+X - X 
+O - X 
+O O X 
+^
+X win
+Number of empty cells: 2
+
+X O - 
+X O X 
+X - O 
+^
+X win
+Number of empty cells: 2
+
+- X X 
+O X O 
+X O - 
+^
+X win
+Number of empty cells: 2
+
+X - X 
+O X - 
+O O X 
+^
+X win
+Number of empty cells: 2
+
+O O X 
+- - X 
+O X X 
+^
+X win
+Number of empty cells: 2
+
+O O O 
+X - X 
+- - X 
+^
+O win
+Number of empty cells: 3
+
+O - - 
+O X O 
+X X X 
+^
+X win
+Number of empty cells: 2
+
+- - O 
+X O O 
+X X X 
+^
+X win
+Number of empty cells: 2
+
+O - X 
+O X X 
+O - - 
+^
+O win
+Number of empty cells: 3
+
+- - X 
+X X O 
+X O O 
+^
+X win
+Number of empty cells: 2
+
+- X - 
+O X O 
+O X X 
+^
+X win
+Number of empty cells: 2
+
+X X - 
+O O O 
+X - - 
+^
+O win
+Number of empty cells: 3
+
+O X X 
+O X O 
+X - - 
+^
+X win
+Number of empty cells: 2
+
+O O O 
+- X X 
+- X - 
+^
+O win
+Number of empty cells: 3
+
+X - X 
+- X - 
+O O O 
+^
+O win
+Number of empty cells: 3
+
+X X X 
+- O X 
+O O - 
+^
+X win
+Number of empty cells: 2
+
+O X O 
+X X O 
+- X - 
+^
+X win
+Number of empty cells: 2
+
+X X X 
+- - O 
+- - O 
+^
+X win
+Number of empty cells: 4
+
+X X X 
+- O O 
+X - O 
+^
+X win
+Number of empty cells: 2
+
+- O - 
+X X X 
+O X O 
+^
+X win
+Number of empty cells: 2
+
+X - O 
+X - - 
+X O - 
+^
+X win
+Number of empty cells: 4
+
+O X X 
+O - X 
+- O X 
+^
+X win
+Number of empty cells: 2
+
+O O O 
+X - X 
+- X - 
+^
+O win
+Number of empty cells: 3
+
+X X - 
+O X O 
+- X O 
+^
+X win
+Number of empty cells: 2
+
+O X X 
+X O - 
+- - O 
+^
+O win
+Number of empty cells: 3
+
+O O X 
+- X O 
+X - X 
+^
+X win
+Number of empty cells: 2
+
+X - X 
+O O O 
+X - - 
+^
+O win
+Number of empty cells: 3
+
+- O O 
+- X O 
+X X X 
+^
+X win
+Number of empty cells: 2
+
+O X - 
+X O - 
+X - O 
+^
+O win
+Number of empty cells: 3
+
+O O X 
+X - X 
+O - X 
+^
+X win
+Number of empty cells: 2
+
+O O O 
+X X - 
+- - X 
+^
+O win
+Number of empty cells: 3
+
+X X - 
+O X - 
+O O X 
+^
+X win
+Number of empty cells: 2
+
+X O - 
+- O - 
+X O X 
+^
+O win
+Number of empty cells: 3
+
+O X X 
+O - - 
+O - X 
+^
+O win
+Number of empty cells: 3
+
+O - X 
+- O O 
+X X X 
+^
+X win
+Number of empty cells: 2
+
+- O X 
+- - X 
+- O X 
+^
+X win
+Number of empty cells: 4
+
+O X X 
+X O X 
+O - O 
+^
+O win
+Number of empty cells: 1
+
+X - X 
+O X X 
+O O O 
+^
+O win
+Number of empty cells: 1
+
+X - O 
+O X X 
+- O X 
+^
+X win
+Number of empty cells: 2
+
+X X X 
+O O X 
+- O - 
+^
+X win
+Number of empty cells: 2
+
+X - X 
+X O O 
+X O - 
+^
+X win
+Number of empty cells: 2
+
+- O - 
+O O X 
+X X X 
+^
+X win
+Number of empty cells: 2
+
+X X O 
+X O - 
+O - - 
+^
+O win
+Number of empty cells: 3
+
+X O O 
+X X - 
+O - X 
+^
+X win
+Number of empty cells: 2
+
+X O X 
+- O X 
+- O - 
+^
+O win
+Number of empty cells: 3
+
+O - - 
+X X X 
+O X O 
+^
+X win
+Number of empty cells: 2
+
+X O - 
+O X X 
+O - X 
+^
+X win
+Number of empty cells: 2
+
+O O X 
+O - X 
+X - X 
+^
+X win
+Number of empty cells: 2
+
+X - O 
+- O X 
+O - X 
+^
+O win
+Number of empty cells: 3
+
+X - O 
+- - O 
+X X O 
+^
+O win
+Number of empty cells: 3
+
+X X X 
+- O O 
+O - X 
+^
+X win
+Number of empty cells: 2
+
+X X - 
+O X O 
+O - X 
+^
+X win
+Number of empty cells: 2
+
+- O - 
+- O - 
+X X X 
+^
+X win
+Number of empty cells: 4
+
+- O - 
+X O - 
+X O X 
+^
+O win
+Number of empty cells: 3
+
+X X X 
+X O - 
+- O O 
+^
+X win
+Number of empty cells: 2
+
+X - X 
+O X O 
+O - X 
+^
+X win
+Number of empty cells: 2
+
+- X - 
+O O O 
+X - X 
+^
+O win
+Number of empty cells: 3
+
+O X - 
+X O - 
+- X O 
+^
+O win
+Number of empty cells: 3
+
+X X X 
+- O O 
+X O - 
+^
+X win
+Number of empty cells: 2
+
+O - X 
+O O X 
+X X O 
+^
+O win
+Number of empty cells: 1
+
+X - - 
+O O O 
+- X X 
+^
+O win
+Number of empty cells: 3
+
+O X X 
+- X O 
+O X - 
+^
+X win
+Number of empty cells: 2
+
+O - O 
+X X X 
+- O X 
+^
+X win
+Number of empty cells: 2
+
+O O X 
+O X X 
+X - - 
+^
+X win
+Number of empty cells: 2
+
+O - X 
+O X - 
+X X O 
+^
+X win
+Number of empty cells: 2
+
+X - O 
+X O O 
+X - X 
+^
+X win
+Number of empty cells: 2
+
+O O - 
+X O - 
+X X X 
+^
+X win
+Number of empty cells: 2
+
+X O - 
+- X O 
+X O X 
+^
+X win
+Number of empty cells: 2
+
+O - X 
+O X - 
+O - X 
+^
+O win
+Number of empty cells: 3
+
+X O - 
+X O O 
+X - X 
+^
+X win
+Number of empty cells: 2
+
+O - X 
+O X - 
+X O X 
+^
+X win
+Number of empty cells: 2
+
+O O O 
+X X - 
+- X - 
+^
+O win
+Number of empty cells: 3
+
+O - - 
+X O - 
+X X O 
+^
+O win
+Number of empty cells: 3
+
+- - X 
+O - X 
+O - X 
+^
+X win
+Number of empty cells: 4
+
+- O O 
+X - O 
+X X X 
+^
+X win
+Number of empty cells: 2
+
+X O - 
+X - X 
+X O O 
+^
+X win
+Number of empty cells: 2
+
+O - X 
+- O X 
+- X O 
+^
+O win
+Number of empty cells: 3
+
+- O X 
+X X O 
+X O - 
+^
+X win
+Number of empty cells: 2
+
+O X - 
+O X X 
+O - - 
+^
+O win
+Number of empty cells: 3
+
+- - - 
+X X X 
+O O - 
+^
+X win
+Number of empty cells: 4
+
+X X X 
+- - O 
+X O O 
+^
+X win
+Number of empty cells: 2
+
+O O X 
+- - X 
+X O X 
+^
+X win
+Number of empty cells: 2
+
+O - - 
+O X - 
+O X X 
+^
+O win
+Number of empty cells: 3
+
+O - X 
+X O X 
+- O X 
+^
+X win
+Number of empty cells: 2
+
+- - O 
+- O X 
+O X X 
+^
+O win
+Number of empty cells: 3
+
+X X X 
+- - O 
+- O - 
+^
+X win
+Number of empty cells: 4
+
+- O X 
+- O - 
+X O X 
+^
+O win
+Number of empty cells: 3
+
+O O X 
+O - X 
+- X X 
+^
+X win
+Number of empty cells: 2
+
+X O X 
+- X - 
+X O O 
+^
+X win
+Number of empty cells: 2
+
+O - X 
+- O X 
+X O X 
+^
+X win
+Number of empty cells: 2
+
+X X X 
+- O - 
+X O O 
+^
+X win
+Number of empty cells: 2
+
+X - X 
+- X O 
+O O X 
+^
+X win
+Number of empty cells: 2
+
+X O - 
+X - O 
+X O X 
+^
+X win
+Number of empty cells: 2
+
+- O X 
+- X O 
+X - - 
+^
+X win
+Number of empty cells: 4
+
+- X - 
+X X O 
+O X O 
+^
+X win
+Number of empty cells: 2
+
+X X - 
+O O O 
+X X O 
+^
+O win
+Number of empty cells: 1
+
+X X X 
+O - X 
+- O O 
+^
+X win
+Number of empty cells: 2
+
+X - O 
+X O - 
+X - - 
+^
+X win
+Number of empty cells: 4
+
+X O X 
+O X - 
+O - X 
+^
+X win
+Number of empty cells: 2
+
+X X X 
+O O - 
+- O X 
+^
+X win
+Number of empty cells: 2
+
+- X O 
+O X O 
+- X X 
+^
+X win
+Number of empty cells: 2
+
+X O - 
+O - O 
+X X X 
+^
+X win
+Number of empty cells: 2
+
+X O - 
+- X - 
+- O X 
+^
+X win
+Number of empty cells: 4
+
+X O X 
+- O X 
+O - X 
+^
+X win
+Number of empty cells: 2
+
+O - X 
+O O X 
+X - X 
+^
+X win
+Number of empty cells: 2
+
+X O X 
+X - O 
+X O - 
+^
+X win
+Number of empty cells: 2
+
+O - - 
+O X X 
+O - X 
+^
+O win
+Number of empty cells: 3
+
+X X O 
+- - O 
+X - O 
+^
+O win
+Number of empty cells: 3
+
+X - - 
+X X O 
+X O O 
+^
+X win
+Number of empty cells: 2
+
+- O X 
+O - X 
+O X X 
+^
+X win
+Number of empty cells: 2
+
+X O X 
+X - O 
+X - O 
+^
+X win
+Number of empty cells: 2
+
+X X O 
+O X - 
+O - X 
+^
+X win
+Number of empty cells: 2
+
+- O X 
+X O - 
+X O - 
+^
+O win
+Number of empty cells: 3
+
+X O - 
+X O - 
+- O X 
+^
+O win
+Number of empty cells: 3
+
+- O X 
+X O X 
+O - X 
+^
+X win
+Number of empty cells: 2
+
+X O O 
+- O - 
+X X X 
+^
+X win
+Number of empty cells: 2
+
+X - - 
+O X X 
+O O X 
+^
+X win
+Number of empty cells: 2
+
+X O O 
+X - - 
+X X O 
+^
+X win
+Number of empty cells: 2
+
+- X - 
+- X X 
+O O O 
+^
+O win
+Number of empty cells: 3
+
+- - O 
+- - O 
+X X X 
+^
+X win
+Number of empty cells: 4
+
+O - X 
+O - O 
+X X X 
+^
+X win
+Number of empty cells: 2
+
+X X X 
+O O - 
+O - X 
+^
+X win
+Number of empty cells: 2
+
+- O X 
+O X X 
+X - O 
+^
+X win
+Number of empty cells: 2
+
+- O O 
+X X X 
+- X O 
+^
+X win
+Number of empty cells: 2
+
+X X X 
+O - O 
+- O X 
+^
+X win
+Number of empty cells: 2
+
+X O - 
+O X X 
+- O X 
+^
+X win
+Number of empty cells: 2
+
+O O O 
+X - - 
+X - X 
+^
+O win
+Number of empty cells: 3
+
+- - O 
+X O X 
+O X - 
+^
+O win
+Number of empty cells: 3
+
+X O - 
+X X O 
+X - O 
+^
+X win
+Number of empty cells: 2
+
+- - X 
+X X - 
+O O O 
+^
+O win
+Number of empty cells: 3
+
+O O O 
+- X X 
+X - - 
+^
+O win
+Number of empty cells: 3
+
+O X - 
+X X X 
+O - O 
+^
+X win
+Number of empty cells: 2
+
+O X X 
+- X O 
+X O - 
+^
+X win
+Number of empty cells: 2
+
+X - X 
+O O O 
+- - X 
+^
+O win
+Number of empty cells: 3
+
+O - X 
+O - - 
+O X X 
+^
+O win
+Number of empty cells: 3
+
+O - O 
+O X - 
+X X X 
+^
+X win
+Number of empty cells: 2
+
+X O X 
+- O - 
+X O - 
+^
+O win
+Number of empty cells: 3
+
+X X O 
+O X - 
+- X O 
+^
+X win
+Number of empty cells: 2
+
+- O X 
+O X - 
+X X O 
+^
+X win
+Number of empty cells: 2
+
+X - O 
+O X - 
+- - X 
+^
+X win
+Number of empty cells: 4
+
+X X X 
+- O O 
+O X - 
+^
+X win
+Number of empty cells: 2
+
+O O X 
+X X O 
+X - - 
+^
+X win
+Number of empty cells: 2
+
+X - O 
+X X O 
+- O X 
+^
+X win
+Number of empty cells: 2
+
+X O - 
+X - - 
+X O - 
+^
+X win
+Number of empty cells: 4
+
+O X - 
+O X X 
+- X O 
+^
+X win
+Number of empty cells: 2
+
+X O X 
+O X - 
+X O - 
+^
+X win
+Number of empty cells: 2
+
+X O - 
+X X - 
+O O X 
+^
+X win
+Number of empty cells: 2
+
+- X O 
+- X X 
+O X O 
+^
+X win
+Number of empty cells: 2
+
+O X - 
+O - X 
+O - X 
+^
+O win
+Number of empty cells: 3
+
+X - O 
+X X O 
+X O - 
+^
+X win
+Number of empty cells: 2
+
+X X X 
+O O - 
+O X - 
+^
+X win
+Number of empty cells: 2
+
+O O X 
+- - O 
+X X X 
+^
+X win
+Number of empty cells: 2
+
+X X X 
+O - - 
+O O X 
+^
+X win
+Number of empty cells: 2
+
+O - X 
+X - X 
+O O X 
+^
+X win
+Number of empty cells: 2
+
+X X X 
+- O O 
+- O X 
+^
+X win
+Number of empty cells: 2
+
+O X O 
+O X - 
+- X X 
+^
+X win
+Number of empty cells: 2
+
+O O O 
+- - X 
+X X - 
+^
+O win
+Number of empty cells: 3
+
+O - X 
+O O X 
+- X X 
+^
+X win
+Number of empty cells: 2
+
+X X X 
+O O X 
+- - O 
+^
+X win
+Number of empty cells: 2
+
+O X O 
+- O - 
+X X X 
+^
+X win
+Number of empty cells: 2
+
+X X X 
+O O - 
+- X O 
+^
+X win
+Number of empty cells: 2
+
+O - - 
+- O X 
+X X O 
+^
+O win
+Number of empty cells: 3
+
+- X X 
+- - X 
+O O O 
+^
+O win
+Number of empty cells: 3
+
+X O O 
+O X - 
+- X X 
+^
+X win
+Number of empty cells: 2
+
+X - - 
+X X O 
+O O X 
+^
+X win
+Number of empty cells: 2
