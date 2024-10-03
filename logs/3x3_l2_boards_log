@@ -1,0 +1,5161 @@
+The number of boards counted before the quit threshold (10000) was exceeded is: 860
+
+- - - 
+X - O 
+- X - 
+^
+X win
+
+- X X 
+- - - 
+O - - 
+^
+X win
+
+- - - 
+- X O 
+- X - 
+^
+X win
+
+X O - 
+O - - 
+- - X 
+^
+O win
+
+O - - 
+- - - 
+X X - 
+^
+X win
+
+X - O 
+X - - 
+O - X 
+^
+X win
+
+- - - 
+X - O 
+X - - 
+^
+X win
+
+X O O 
+- - - 
+X - - 
+^
+O win
+
+- O - 
+- X - 
+- X - 
+^
+X win
+
+- X - 
+- - X 
+O - - 
+^
+X win
+
+- - X 
+O - X 
+- - - 
+^
+X win
+
+O - - 
+X - - 
+- X - 
+^
+X win
+
+- - - 
+X O X 
+- O - 
+^
+O win
+
+X - - 
+- O - 
+- O X 
+^
+O win
+
+- - - 
+O X X 
+- - - 
+^
+X win
+
+- - - 
+- O - 
+- X X 
+^
+X win
+
+- X - 
+O O - 
+- X - 
+^
+O win
+
+- - - 
+- - O 
+- X X 
+^
+X win
+
+- - O 
+X - O 
+- - X 
+^
+O win
+
+X - X 
+O - O 
+O X - 
+^
+O win
+
+O X - 
+- - X 
+- - - 
+^
+X win
+
+- X - 
+O - X 
+- - - 
+^
+X win
+
+- X - 
+X - - 
+O - - 
+^
+X win
+
+- - X 
+- O O 
+X - - 
+^
+O win
+
+X - - 
+O - O 
+- X X 
+^
+X win
+
+- - X 
+O X - 
+X - O 
+^
+X win
+
+- O O 
+- - - 
+X - X 
+^
+O win
+
+- X O 
+- X - 
+- - - 
+^
+X win
+
+- - - 
+- - X 
+- X O 
+^
+X win
+
+X O X 
+X - - 
+O - - 
+^
+X win
+
+- - X 
+- O - 
+O X - 
+^
+O win
+
+X O - 
+- - O 
+X - - 
+^
+O win
+
+- - - 
+- - - 
+O X X 
+^
+X win
+
+- O - 
+- - X 
+- - X 
+^
+X win
+
+O - X 
+- O - 
+- - X 
+^
+O win
+
+- O O 
+- - X 
+X - - 
+^
+O win
+
+- X O 
+O X - 
+- X - 
+^
+X win
+
+X O - 
+X - - 
+- - - 
+^
+X win
+
+X O - 
+- O - 
+- X - 
+^
+O win
+
+- O - 
+X X X 
+- - O 
+^
+X win
+
+O - - 
+- - X 
+- - X 
+^
+X win
+
+X X - 
+O - - 
+- - - 
+^
+X win
+
+- - X 
+- - O 
+O X X 
+^
+X win
+
+- - - 
+- O - 
+X X - 
+^
+X win
+
+- O X 
+- - O 
+X - - 
+^
+O win
+
+O - - 
+- X - 
+X - - 
+^
+X win
+
+- - - 
+- X - 
+- X O 
+^
+X win
+
+O - - 
+- X X 
+- - - 
+^
+X win
+
+- - O 
+- X X 
+- - - 
+^
+X win
+
+X - O 
+O - - 
+X O X 
+^
+O win
+
+- - - 
+X - - 
+X - O 
+^
+X win
+
+X - - 
+- - O 
+- O X 
+^
+O win
+
+- - O 
+- - - 
+- X X 
+^
+X win
+
+- - - 
+- O X 
+- X - 
+^
+X win
+
+- - X 
+X O O 
+- - - 
+^
+O win
+
+- - O 
+O - - 
+X X X 
+^
+X win
+
+O O X 
+- - - 
+X O X 
+^
+O win
+
+X X O 
+O - - 
+X - - 
+^
+X win
+
+- - - 
+X O - 
+- O X 
+^
+O win
+
+X - - 
+X O - 
+- - - 
+^
+X win
+
+- - - 
+X X - 
+- - O 
+^
+X win
+
+- X - 
+- X - 
+- - O 
+^
+X win
+
+- X - 
+- O X 
+- - - 
+^
+X win
+
+- - - 
+- - X 
+O X - 
+^
+X win
+
+- - - 
+- - X 
+O - X 
+^
+X win
+
+- - O 
+X X - 
+- - - 
+^
+X win
+
+O - - 
+- X - 
+- X - 
+^
+X win
+
+- X O 
+O - X 
+X - - 
+^
+X win
+
+X X O 
+- - - 
+- - - 
+^
+X win
+
+O O X 
+X - - 
+- O X 
+^
+O win
+
+- - - 
+X - - 
+X O - 
+^
+X win
+
+- X X 
+- - - 
+- O - 
+^
+X win
+
+- X - 
+- X - 
+O - - 
+^
+X win
+
+- - O 
+- X - 
+- X - 
+^
+X win
+
+- - - 
+- X - 
+X - O 
+^
+X win
+
+X - - 
+- O O 
+- X - 
+^
+O win
+
+O - O 
+- - X 
+X - X 
+^
+X win
+
+- O X 
+- - O 
+X O X 
+^
+O win
+
+- O - 
+- O - 
+X - X 
+^
+O win
+
+- - - 
+- X - 
+O - X 
+^
+X win
+
+O - X 
+- O - 
+- X - 
+^
+O win
+
+X O X 
+- - - 
+X O O 
+^
+O win
+
+- X - 
+- - - 
+X O O 
+^
+O win
+
+X X O 
+- - - 
+O X - 
+^
+X win
+
+X - O 
+- - X 
+- X O 
+^
+X win
+
+- X X 
+- O - 
+- - - 
+^
+X win
+
+X - - 
+- X - 
+- - O 
+^
+X win
+
+- X O 
+- - X 
+O - X 
+^
+X win
+
+- - - 
+O - X 
+- - X 
+^
+X win
+
+- - - 
+O X - 
+- X - 
+^
+X win
+
+- - X 
+O O - 
+X - - 
+^
+O win
+
+- O - 
+- - - 
+- X X 
+^
+X win
+
+O - X 
+O - - 
+- - X 
+^
+O win
+
+- O - 
+X - X 
+X - O 
+^
+X win
+
+X O O 
+O - X 
+X - - 
+^
+O win
+
+X X - 
+- - - 
+O - - 
+^
+X win
+
+- X - 
+O - - 
+X O - 
+^
+O win
+
+- X - 
+O O - 
+- - X 
+^
+O win
+
+O - X 
+O - - 
+- X - 
+^
+O win
+
+- - O 
+- - X 
+- X - 
+^
+X win
+
+- - O 
+X O X 
+- - - 
+^
+O win
+
+- - - 
+- X O 
+- - X 
+^
+X win
+
+X O X 
+O - O 
+- X - 
+^
+O win
+
+- - - 
+X - - 
+O X - 
+^
+X win
+
+- O - 
+- X - 
+X - - 
+^
+X win
+
+- - - 
+X - X 
+- O O 
+^
+O win
+
+- X O 
+- O - 
+- X - 
+^
+O win
+
+- O X 
+- - X 
+- - - 
+^
+X win
+
+- X O 
+O - X 
+- X - 
+^
+X win
+
+- - X 
+X - O 
+- O - 
+^
+O win
+
+X - - 
+X - - 
+- - O 
+^
+X win
+
+- - - 
+- X - 
+O X - 
+^
+X win
+
+- X - 
+- - X 
+- - O 
+^
+X win
+
+O O - 
+X - X 
+- - - 
+^
+O win
+
+O - - 
+X - X 
+- O X 
+^
+X win
+
+- - - 
+O - X 
+- X - 
+^
+X win
+
+- - O 
+- X - 
+- - X 
+^
+X win
+
+O X - 
+X - - 
+- - - 
+^
+X win
+
+X O - 
+O - X 
+- - - 
+^
+O win
+
+- - - 
+O X - 
+X - - 
+^
+X win
+
+- - X 
+- - X 
+- O - 
+^
+X win
+
+- - - 
+- X X 
+- - O 
+^
+X win
+
+- X - 
+X - O 
+O - X 
+^
+X win
+
+- X - 
+O X O 
+- - X 
+^
+X win
+
+- X - 
+X - O 
+- - - 
+^
+X win
+
+X - - 
+O X - 
+- - - 
+^
+X win
+
+- O - 
+X X - 
+- - - 
+^
+X win
+
+O X O 
+- X - 
+- - X 
+^
+X win
+
+X - X 
+O - O 
+O - X 
+^
+O win
+
+X - O 
+O X - 
+- - X 
+^
+X win
+
+- X O 
+- X - 
+O - X 
+^
+X win
+
+- - X 
+- O X 
+- - - 
+^
+X win
+
+- - - 
+- X O 
+X - - 
+^
+X win
+
+- X - 
+X - - 
+- - O 
+^
+X win
+
+- - - 
+X O - 
+X - - 
+^
+X win
+
+- - O 
+- - X 
+- - X 
+^
+X win
+
+X - - 
+- O - 
+O X - 
+^
+O win
+
+- X - 
+O - X 
+X - O 
+^
+X win
+
+- X X 
+O - - 
+- X O 
+^
+X win
+
+- X - 
+- O - 
+O - X 
+^
+O win
+
+- X - 
+- O - 
+O X - 
+^
+O win
+
+- - X 
+- X - 
+O - - 
+^
+X win
+
+O X - 
+X - - 
+X - O 
+^
+X win
+
+O - - 
+X X - 
+- - - 
+^
+X win
+
+- - X 
+O X - 
+- X O 
+^
+X win
+
+X - - 
+- X O 
+- - - 
+^
+X win
+
+- - X 
+- X - 
+- O - 
+^
+X win
+
+O X - 
+- X - 
+- - - 
+^
+X win
+
+- - - 
+- O X 
+- - X 
+^
+X win
+
+- X - 
+- O - 
+X O - 
+^
+O win
+
+- O - 
+- - - 
+X X - 
+^
+X win
+
+- O O 
+X - X 
+- - - 
+^
+O win
+
+- O X 
+- - O 
+- - X 
+^
+O win
+
+X X - 
+- O - 
+- - - 
+^
+X win
+
+- - X 
+- - O 
+- X O 
+^
+O win
+
+X X - 
+- - - 
+- - O 
+^
+X win
+
+- O - 
+- O X 
+X - - 
+^
+O win
+
+- X - 
+- - O 
+- X O 
+^
+O win
+
+- - X 
+X - O 
+O O X 
+^
+O win
+
+- - - 
+X O X 
+O - - 
+^
+O win
+
+- - O 
+- X - 
+X O X 
+^
+X win
+
+X - - 
+- O X 
+- O - 
+^
+O win
+
+X - X 
+O - X 
+- - O 
+^
+X win
+
+O - X 
+- O - 
+X - - 
+^
+O win
+
+- - X 
+X O - 
+- - O 
+^
+O win
+
+- - X 
+- O O 
+- - X 
+^
+O win
+
+- - X 
+- - X 
+O - - 
+^
+X win
+
+- - - 
+O O X 
+X - - 
+^
+O win
+
+X O - 
+X - - 
+O - X 
+^
+X win
+
+X - X 
+O - - 
+O - - 
+^
+O win
+
+X - X 
+- O - 
+- - O 
+^
+O win
+
+- X - 
+O - - 
+O X - 
+^
+O win
+
+- - O 
+X - - 
+X O X 
+^
+X win
+
+O - - 
+O - X 
+X - - 
+^
+O win
+
+- X O 
+X - - 
+X O - 
+^
+X win
+
+- - - 
+X - O 
+- O X 
+^
+O win
+
+- X - 
+X - X 
+O - O 
+^
+X win
+
+- O - 
+X - - 
+X - - 
+^
+X win
+
+X - O 
+- - X 
+X O O 
+^
+O win
+
+- - - 
+- X - 
+X O - 
+^
+X win
+
+O X - 
+O - - 
+X - - 
+^
+O win
+
+O - X 
+- X - 
+- X O 
+^
+X win
+
+X O X 
+- O - 
+O X - 
+^
+O win
+
+- X - 
+- O - 
+- X O 
+^
+O win
+
+X X O 
+- - X 
+- O - 
+^
+X win
+
+- - X 
+X - - 
+- O O 
+^
+O win
+
+O X - 
+- X O 
+- X - 
+^
+X win
+
+- - X 
+O O - 
+- - X 
+^
+O win
+
+- - - 
+- - X 
+- O X 
+^
+X win
+
+O - X 
+- - O 
+X O X 
+^
+O win
+
+X - - 
+O - - 
+- O X 
+^
+O win
+
+- - - 
+X - - 
+O O X 
+^
+O win
+
+- - - 
+- - - 
+X X O 
+^
+X win
+
+- X - 
+- O O 
+- X - 
+^
+O win
+
+- X O 
+- X - 
+- O X 
+^
+X win
+
+O - O 
+X - X 
+X - - 
+^
+X win
+
+X - O 
+- X - 
+- - - 
+^
+X win
+
+X - O 
+- X - 
+- O X 
+^
+X win
+
+O - - 
+- - X 
+- X - 
+^
+X win
+
+O O X 
+X - - 
+O - X 
+^
+O win
+
+- - - 
+X O - 
+- X - 
+^
+X win
+
+X - - 
+X - - 
+- O - 
+^
+X win
+
+O X O 
+- - - 
+X X - 
+^
+X win
+
+- X X 
+- - - 
+- - O 
+^
+X win
+
+X - - 
+- O X 
+- - O 
+^
+O win
+
+O - - 
+X - - 
+X - - 
+^
+X win
+
+- - X 
+O - O 
+- X X 
+^
+X win
+
+O - X 
+- - O 
+X X - 
+^
+X win
+
+- - X 
+X - - 
+O O - 
+^
+O win
+
+O - - 
+- - - 
+- X X 
+^
+X win
+
+- - - 
+X X O 
+- - - 
+^
+X win
+
+- X - 
+X - - 
+- O - 
+^
+X win
+
+X - O 
+- - O 
+X - - 
+^
+O win
+
+O X X 
+- - - 
+- - - 
+^
+X win
+
+- - - 
+X - - 
+- X O 
+^
+X win
+
+- X O 
+- O - 
+- - X 
+^
+O win
+
+- X - 
+- O O 
+- - X 
+^
+O win
+
+- - O 
+- X - 
+X - - 
+^
+X win
+
+- X O 
+- - X 
+- - - 
+^
+X win
+
+X - X 
+O O - 
+- - - 
+^
+O win
+
+- - X 
+- X O 
+- - - 
+^
+X win
+
+- X X 
+O - - 
+X - O 
+^
+X win
+
+- X - 
+X O - 
+- - - 
+^
+X win
+
+- X - 
+- - - 
+O O X 
+^
+O win
+
+- X O 
+X - - 
+- - - 
+^
+X win
+
+- X - 
+O O - 
+X - - 
+^
+O win
+
+- X O 
+- - O 
+- - X 
+^
+O win
+
+X - O 
+X - - 
+- X O 
+^
+X win
+
+- X X 
+O - O 
+- X - 
+^
+X win
+
+- - O 
+X - - 
+X - - 
+^
+X win
+
+- X - 
+- X - 
+- O - 
+^
+X win
+
+X - X 
+- - X 
+O - O 
+^
+X win
+
+X O - 
+- - X 
+- X O 
+^
+X win
+
+X - - 
+X - - 
+O - - 
+^
+X win
+
+- - O 
+- - - 
+X X - 
+^
+X win
+
+O - - 
+X - X 
+X - O 
+^
+X win
+
+X - - 
+- X - 
+O - - 
+^
+X win
+
+X - - 
+- - X 
+O O - 
+^
+O win
+
+O O X 
+- - - 
+X - - 
+^
+O win
+
+- - X 
+O O - 
+- X - 
+^
+O win
+
+X - - 
+X - O 
+- - - 
+^
+X win
+
+- - - 
+X X - 
+O - - 
+^
+X win
+
+- - - 
+X X - 
+- O - 
+^
+X win
+
+- X - 
+- X O 
+- - - 
+^
+X win
+
+O - - 
+X X - 
+O - X 
+^
+X win
+
+- O X 
+X - - 
+- X O 
+^
+X win
+
+X - - 
+- O O 
+- - X 
+^
+O win
+
+X - O 
+O - X 
+- X - 
+^
+X win
+
+X - X 
+- O O 
+- - - 
+^
+O win
+
+X O X 
+O - O 
+X - - 
+^
+O win
+
+- O - 
+X O X 
+- - - 
+^
+O win
+
+O X - 
+- O - 
+- - X 
+^
+O win
+
+O - X 
+- X - 
+- - - 
+^
+X win
+
+O - O 
+X - X 
+- - X 
+^
+X win
+
+- - X 
+- - - 
+O O X 
+^
+O win
+
+X - O 
+- X - 
+O X - 
+^
+X win
+
+X - - 
+- - O 
+- X O 
+^
+O win
+
+- O - 
+X - - 
+X O X 
+^
+X win
+
+X O - 
+- - X 
+- O X 
+^
+X win
+
+X O X 
+- O - 
+- O X 
+^
+O win
+
+- X - 
+O - - 
+- O X 
+^
+O win
+
+X - - 
+O O X 
+- - - 
+^
+O win
+
+- - X 
+- X - 
+- - O 
+^
+X win
+
+O X - 
+O - - 
+- - X 
+^
+O win
+
+- X - 
+O - O 
+X X - 
+^
+X win
+
+X O O 
+- - X 
+- - - 
+^
+O win
+
+X X X 
+O - - 
+- - O 
+^
+X win
+
+O - X 
+X - O 
+- X - 
+^
+X win
+
+O X - 
+X - O 
+- - X 
+^
+X win
+
+O X - 
+- O - 
+X - - 
+^
+O win
+
+- O X 
+O - - 
+- X - 
+^
+O win
+
+X - O 
+- X X 
+- O - 
+^
+X win
+
+X - X 
+O O O 
+- X - 
+^
+O win
+
+O - - 
+- - X 
+X O X 
+^
+X win
+
+- - - 
+- X X 
+O - - 
+^
+X win
+
+X - - 
+- - - 
+X O O 
+^
+O win
+
+- X O 
+X - - 
+O - X 
+^
+X win
+
+- - - 
+O - - 
+- X X 
+^
+X win
+
+- X - 
+O X - 
+- - - 
+^
+X win
+
+X - O 
+X - X 
+- O - 
+^
+X win
+
+X - O 
+- O X 
+- - - 
+^
+O win
+
+X - O 
+O X X 
+- - - 
+^
+X win
+
+O X - 
+- O - 
+- X - 
+^
+O win
+
+- - X 
+O - - 
+O - X 
+^
+O win
+
+- O X 
+X - X 
+O - - 
+^
+X win
+
+X - - 
+O - X 
+- X O 
+^
+X win
+
+O O X 
+- - - 
+- - X 
+^
+O win
+
+O - - 
+- X X 
+X - O 
+^
+X win
+
+- O X 
+- X - 
+X - O 
+^
+X win
+
+- - - 
+- O O 
+X - X 
+^
+O win
+
+X X - 
+- - - 
+- O - 
+^
+X win
+
+- X - 
+- - X 
+- O - 
+^
+X win
+
+- X X 
+- - O 
+- - - 
+^
+X win
+
+X - - 
+X - X 
+O - O 
+^
+X win
+
+- - X 
+- - O 
+- O X 
+^
+O win
+
+- - O 
+- - O 
+X - X 
+^
+O win
+
+- - O 
+X O - 
+- - X 
+^
+O win
+
+- - - 
+- O - 
+X O X 
+^
+O win
+
+- O - 
+- X X 
+- - - 
+^
+X win
+
+X - O 
+- O - 
+X - - 
+^
+O win
+
+X - - 
+- - - 
+O O X 
+^
+O win
+
+O - - 
+X O X 
+- - - 
+^
+O win
+
+O - X 
+- - X 
+- - - 
+^
+X win
+
+- - X 
+- O - 
+O - X 
+^
+O win
+
+X O X 
+X - - 
+- O - 
+^
+X win
+
+- O - 
+O - X 
+X - - 
+^
+O win
+
+- - - 
+- X X 
+- O - 
+^
+X win
+
+X - - 
+- X - 
+- O - 
+^
+X win
+
+X - O 
+- - O 
+- - X 
+^
+O win
+
+X - - 
+- - X 
+- O O 
+^
+O win
+
+- - X 
+O - O 
+X O X 
+^
+O win
+
+X - O 
+- X - 
+O - X 
+^
+X win
+
+O - - 
+- X - 
+- - X 
+^
+X win
+
+X O - 
+X - X 
+O - - 
+^
+X win
+
+- O - 
+X - - 
+- X - 
+^
+X win
+
+X - - 
+O - - 
+O X - 
+^
+O win
+
+- O X 
+X O - 
+- O X 
+^
+O win
+
+X X - 
+- - O 
+- - - 
+^
+X win
+
+X O O 
+- - - 
+- X - 
+^
+O win
+
+- - - 
+O - X 
+X O - 
+^
+O win
+
+O - X 
+X - - 
+X O - 
+^
+X win
+
+O X - 
+X - - 
+- O X 
+^
+X win
+
+O X O 
+- - X 
+- X - 
+^
+X win
+
+X - - 
+- O X 
+O - - 
+^
+O win
+
+- - O 
+- O - 
+X - X 
+^
+O win
+
+X - X 
+- O - 
+- O - 
+^
+O win
+
+X O X 
+- X - 
+- O - 
+^
+X win
+
+O X X 
+- - - 
+X - O 
+^
+X win
+
+- - - 
+- X - 
+- O X 
+^
+X win
+
+- O X 
+X - O 
+- - - 
+^
+O win
+
+- O X 
+O - - 
+- - X 
+^
+O win
+
+O - - 
+- O - 
+X - X 
+^
+O win
+
+X X - 
+O - - 
+X - O 
+^
+X win
+
+O X - 
+X - - 
+- X O 
+^
+X win
+
+O - O 
+X - X 
+- X - 
+^
+X win
+
+O - X 
+X O - 
+- - - 
+^
+O win
+
+O - - 
+X X X 
+O - - 
+^
+X win
+
+- X O 
+- - X 
+- O X 
+^
+X win
+
+- - - 
+- - O 
+X O X 
+^
+O win
+
+- O - 
+O - - 
+X - X 
+^
+O win
+
+X X - 
+- - - 
+O X O 
+^
+X win
+
+- O X 
+- O - 
+X - - 
+^
+O win
+
+- - O 
+O - X 
+X - X 
+^
+X win
+
+X X O 
+- - - 
+O - X 
+^
+X win
+
+X O - 
+- O - 
+- - X 
+^
+O win
+
+O X - 
+- - X 
+- O X 
+^
+X win
+
+- - O 
+- O X 
+X - - 
+^
+O win
+
+- O - 
+X - O 
+- - X 
+^
+O win
+
+X O - 
+- O - 
+X - - 
+^
+O win
+
+O - X 
+X O - 
+O - X 
+^
+O win
+
+- - - 
+O - - 
+X O X 
+^
+O win
+
+O - X 
+- X - 
+X O - 
+^
+X win
+
+- - X 
+X O - 
+O - - 
+^
+O win
+
+- O X 
+- - - 
+O X X 
+^
+X win
+
+- O - 
+X O - 
+- - X 
+^
+O win
+
+- O - 
+- - X 
+- X - 
+^
+X win
+
+X - O 
+X - - 
+- O X 
+^
+X win
+
+X O X 
+- - O 
+- X O 
+^
+O win
+
+- O - 
+X - X 
+O X - 
+^
+X win
+
+X - X 
+O - - 
+- O - 
+^
+O win
+
+- X X 
+O - O 
+X - - 
+^
+X win
+
+- - X 
+O - - 
+X O - 
+^
+O win
+
+X - O 
+X - X 
+O - - 
+^
+X win
+
+- O - 
+- X - 
+- - X 
+^
+X win
+
+- - - 
+O X - 
+- - X 
+^
+X win
+
+O - X 
+X - X 
+- - O 
+^
+X win
+
+- - X 
+O - - 
+- O X 
+^
+O win
+
+- X O 
+- - - 
+O X X 
+^
+X win
+
+X - X 
+O - O 
+X O - 
+^
+O win
+
+- - X 
+X - O 
+- - O 
+^
+O win
+
+X - O 
+- O X 
+X - O 
+^
+O win
+
+X - X 
+- - O 
+- O - 
+^
+O win
+
+- X - 
+- O - 
+X - O 
+^
+O win
+
+X O - 
+X - X 
+- O - 
+^
+X win
+
+X O O 
+- - - 
+- - X 
+^
+O win
+
+- X O 
+X - X 
+O - - 
+^
+X win
+
+X - - 
+- O - 
+X - O 
+^
+O win
+
+X O - 
+- O X 
+X O - 
+^
+O win
+
+O O X 
+- - - 
+- X - 
+^
+O win
+
+X X - 
+O - X 
+- - O 
+^
+X win
+
+O O - 
+- - - 
+X - X 
+^
+O win
+
+O X - 
+X - O 
+- X - 
+^
+X win
+
+O - - 
+O - - 
+X - X 
+^
+O win
+
+- - X 
+- O - 
+X O - 
+^
+O win
+
+- - - 
+X O O 
+- - X 
+^
+O win
+
+X O - 
+- X - 
+O - X 
+^
+X win
+
+X X - 
+- - X 
+O - O 
+^
+X win
+
+X - O 
+- O - 
+X O X 
+^
+O win
+
+X - X 
+- X O 
+O - - 
+^
+X win
+
+X O - 
+- X - 
+- - - 
+^
+X win
+
+- - X 
+- - O 
+X O - 
+^
+O win
+
+- X - 
+O O O 
+X - X 
+^
+O win
+
+X - X 
+- X - 
+O - O 
+^
+X win
+
+- O X 
+- O - 
+- - X 
+^
+O win
+
+- X - 
+O - O 
+- X X 
+^
+X win
+
+X - - 
+O X X 
+- - O 
+^
+X win
+
+O X O 
+- - X 
+X - - 
+^
+X win
+
+O - X 
+X - - 
+- X O 
+^
+X win
+
+O X O 
+- - O 
+X - X 
+^
+O win
+
+O O - 
+- - X 
+X - - 
+^
+O win
+
+X - - 
+O - - 
+X O - 
+^
+O win
+
+- X X 
+- - O 
+O - X 
+^
+X win
+
+X - X 
+- - - 
+O O - 
+^
+O win
+
+- - - 
+- - O 
+X X - 
+^
+X win
+
+O X X 
+- - - 
+- X O 
+^
+X win
+
+O - X 
+O - - 
+X - - 
+^
+O win
+
+X X O 
+- - X 
+- - O 
+^
+X win
+
+O - X 
+- X - 
+O - X 
+^
+X win
+
+- O X 
+X - X 
+- O - 
+^
+X win
+
+X O X 
+- - X 
+- O - 
+^
+X win
+
+- O X 
+O - - 
+X - - 
+^
+O win
+
+- X O 
+- - - 
+X X O 
+^
+X win
+
+X X - 
+O - O 
+- - X 
+^
+X win
+
+X - O 
+- - X 
+O X - 
+^
+X win
+
+- X - 
+- - O 
+- O X 
+^
+O win
+
+X - X 
+X - - 
+O - O 
+^
+X win
+
+X - - 
+- - O 
+X O - 
+^
+O win
+
+X - - 
+- O - 
+- X O 
+^
+O win
+
+O X X 
+- - O 
+X - - 
+^
+X win
+
+- - X 
+O X - 
+- - - 
+^
+X win
+
+O - X 
+- - - 
+O X X 
+^
+X win
+
+X O X 
+O - - 
+X - O 
+^
+O win
+
+X X - 
+- - O 
+O - X 
+^
+X win
+
+O - X 
+- - X 
+X - O 
+^
+X win
+
+- - - 
+O X O 
+X - X 
+^
+X win
+
+- X O 
+O - O 
+X - X 
+^
+O win
+
+- - O 
+X - - 
+- X - 
+^
+X win
+
+O - O 
+X - - 
+X - X 
+^
+X win
+
+- X O 
+- - X 
+X - O 
+^
+X win
+
+- - X 
+- O - 
+- X O 
+^
+O win
+
+X - X 
+O - O 
+- X O 
+^
+O win
+
+O - - 
+X X - 
+- O X 
+^
+X win
+
+O O X 
+X - - 
+- - - 
+^
+O win
+
+X O X 
+- - O 
+- - - 
+^
+O win
+
+X O - 
+- - O 
+- - X 
+^
+O win
+
+- O X 
+X - O 
+- O X 
+^
+O win
+
+O - - 
+X - X 
+X O - 
+^
+X win
+
+O - - 
+X - O 
+- X X 
+^
+X win
+
+X - - 
+O X O 
+- X - 
+^
+X win
+
+- O X 
+- - X 
+X - O 
+^
+X win
+
+- O - 
+X - - 
+O X X 
+^
+X win
+
+- - - 
+X O - 
+O - X 
+^
+O win
+
+O - X 
+- - X 
+X O - 
+^
+X win
+
+- X - 
+O - - 
+O - X 
+^
+O win
+
+O - O 
+X X X 
+- - - 
+^
+X win
+
+O X - 
+- - - 
+X X O 
+^
+X win
+
+- - X 
+- O - 
+- O X 
+^
+O win
+
+X O X 
+- - - 
+O O X 
+^
+O win
+
+O - X 
+X X - 
+- - O 
+^
+X win
+
+X O - 
+X - - 
+X - O 
+^
+X win
+
+- O X 
+- - O 
+- X - 
+^
+O win
+
+- O X 
+X - - 
+O X - 
+^
+X win
+
+X - O 
+O - - 
+- X X 
+^
+X win
+
+O X X 
+- - - 
+- O X 
+^
+X win
+
+- - - 
+O - - 
+X X - 
+^
+X win
+
+X - X 
+- - O 
+- - O 
+^
+O win
+
+- X - 
+O X - 
+X - O 
+^
+X win
+
+X - X 
+O - - 
+O X O 
+^
+O win
+
+O - X 
+X - O 
+X - - 
+^
+X win
+
+X O X 
+X - - 
+O X O 
+^
+X win
+
+X - X 
+- O - 
+O - - 
+^
+O win
+
+- X X 
+O - - 
+- - - 
+^
+X win
+
+- - X 
+X - O 
+O X - 
+^
+X win
+
+O - - 
+X X O 
+- - X 
+^
+X win
+
+O - X 
+X - - 
+X - O 
+^
+X win
+
+- - X 
+- - O 
+X - O 
+^
+O win
+
+X - - 
+O O - 
+- - X 
+^
+O win
+
+X O - 
+- X X 
+O - - 
+^
+X win
+
+- O - 
+X - X 
+X O - 
+^
+X win
+
+O X - 
+- X - 
+X - O 
+^
+X win
+
+- - X 
+- O O 
+- X - 
+^
+O win
+
+- X O 
+X - X 
+- O - 
+^
+X win
+
+O - X 
+X - - 
+O X - 
+^
+X win
+
+- O O 
+X - - 
+- - X 
+^
+O win
+
+X - - 
+O - X 
+- O - 
+^
+O win
+
+X - O 
+X - - 
+- - - 
+^
+X win
+
+X - X 
+- - - 
+- O O 
+^
+O win
+
+X O - 
+O - O 
+X - X 
+^
+O win
+
+X - - 
+O - - 
+O - X 
+^
+O win
+
+- - O 
+O X - 
+X - X 
+^
+X win
+
+O X - 
+O - - 
+- X - 
+^
+O win
+
+- - - 
+- - X 
+X O O 
+^
+O win
+
+- X - 
+X - O 
+O X - 
+^
+X win
+
+- - O 
+X - X 
+X - O 
+^
+X win
+
+X O X 
+- - O 
+X O - 
+^
+O win
+
+X - O 
+- O - 
+- X - 
+^
+O win
+
+X - - 
+- O - 
+O - X 
+^
+O win
+
+- - O 
+X - X 
+O - X 
+^
+X win
+
+- - X 
+- - - 
+X O O 
+^
+O win
+
+O - X 
+X - X 
+O - - 
+^
+X win
+
+O X O 
+- - X 
+X O X 
+^
+X win
+
+O X - 
+X - - 
+O - X 
+^
+X win
+
+X - O 
+O - X 
+X O - 
+^
+O win
+
+- X X 
+- - O 
+O X - 
+^
+X win
+
+- O X 
+- X - 
+- - - 
+^
+X win
+
+X O X 
+O - - 
+X O - 
+^
+O win
+
+- - X 
+X - X 
+O - O 
+^
+X win
+
+- X O 
+- O - 
+X - - 
+^
+O win
+
+- - - 
+O O - 
+X - X 
+^
+O win
+
+X O X 
+- - O 
+O - X 
+^
+O win
+
+X - - 
+- - O 
+O X X 
+^
+X win
+
+- - - 
+X - X 
+O O - 
+^
+O win
+
+O - X 
+X O - 
+- O X 
+^
+O win
+
+O - X 
+- - X 
+O X - 
+^
+X win
+
+X - O 
+X - X 
+- - O 
+^
+X win
+
+X O - 
+O - - 
+- X - 
+^
+O win
+
+O X X 
+- - - 
+X O - 
+^
+X win
+
+- - X 
+- - X 
+- - O 
+^
+X win
+
+- X - 
+- - O 
+X - O 
+^
+O win
+
+- - - 
+- O X 
+X - O 
+^
+O win
+
+X X O 
+O - - 
+- X - 
+^
+X win
+
+X O - 
+- O X 
+- - - 
+^
+O win
+
+X - - 
+O O - 
+- X - 
+^
+O win
+
+X O X 
+- O - 
+- - - 
+^
+O win
+
+- X O 
+- - O 
+X - - 
+^
+O win
+
+- O X 
+- O - 
+- X - 
+^
+O win
+
+X - O 
+O O - 
+X - X 
+^
+O win
+
+- X - 
+- O O 
+X - - 
+^
+O win
+
+X X O 
+- - - 
+X - O 
+^
+X win
+
+X - - 
+O - - 
+X X O 
+^
+X win
+
+- - - 
+O X X 
+X - O 
+^
+X win
+
+O - - 
+X - X 
+O - X 
+^
+X win
+
+X O X 
+- O - 
+X - O 
+^
+O win
+
+O - X 
+X - - 
+O O X 
+^
+O win
+
+X O - 
+- - X 
+O X - 
+^
+X win
+
+X O - 
+O - - 
+X - - 
+^
+O win
+
+X O - 
+- - X 
+O - X 
+^
+X win
+
+O - - 
+- O X 
+X - - 
+^
+O win
+
+O X O 
+- - - 
+- X X 
+^
+X win
+
+X - O 
+O X X 
+X - O 
+^
+X win
+
+X - - 
+X - - 
+O X O 
+^
+X win
+
+X O O 
+- - X 
+X - O 
+^
+O win
+
+X - X 
+O - O 
+- O X 
+^
+O win
+
+O - - 
+X - O 
+X - X 
+^
+X win
+
+O O - 
+X - - 
+- - X 
+^
+O win
+
+X - O 
+O - - 
+X X - 
+^
+X win
+
+O - X 
+- X O 
+- X - 
+^
+X win
+
+X - - 
+- - O 
+X - O 
+^
+O win
+
+- - X 
+X O O 
+O - X 
+^
+O win
+
+X - - 
+- O - 
+X O - 
+^
+O win
+
+O X - 
+- - - 
+O X X 
+^
+X win
+
+- - O 
+X X - 
+O - X 
+^
+X win
+
+X O - 
+- - O 
+- X - 
+^
+O win
+
+O X - 
+X - O 
+X - - 
+^
+X win
+
+X X - 
+- - O 
+O X - 
+^
+X win
+
+O X - 
+- X - 
+- X O 
+^
+X win
+
+- - - 
+X - X 
+O X O 
+^
+X win
+
+X - - 
+X - O 
+O - X 
+^
+X win
+
+- - X 
+O - X 
+X - O 
+^
+X win
+
+X O X 
+- O - 
+X O - 
+^
+O win
+
+X - - 
+- O O 
+X - - 
+^
+O win
+
+X O - 
+- O - 
+X O X 
+^
+O win
+
+- - - 
+X O X 
+- - O 
+^
+O win
+
+X - - 
+O - X 
+O - - 
+^
+O win
+
+X X O 
+O - - 
+- - X 
+^
+X win
+
+O X X 
+X - - 
+- O - 
+^
+X win
+
+O X O 
+- X - 
+- X - 
+^
+X win
+
+- - X 
+- X - 
+O X O 
+^
+X win
+
+X O O 
+- - - 
+X O X 
+^
+O win
+
+- X O 
+- X - 
+X O - 
+^
+X win
+
+- - X 
+- O - 
+X - O 
+^
+O win
+
+X O - 
+- - - 
+O X X 
+^
+X win
+
+O X O 
+- X - 
+X O X 
+^
+X win
+
+- X - 
+- - O 
+O X X 
+^
+X win
+
+- - O 
+- - X 
+X O X 
+^
+X win
+
+X - O 
+- - - 
+O X X 
+^
+X win
+
+- - O 
+- X X 
+X O - 
+^
+X win
+
+O X X 
+- - O 
+- - X 
+^
+X win
+
+X - O 
+- X - 
+X O - 
+^
+X win
+
+X - O 
+- O - 
+- - X 
+^
+O win
+
+- X O 
+- - X 
+X O - 
+^
+X win
+
+X - O 
+- - O 
+- X - 
+^
+O win
+
+X - X 
+- - O 
+O X O 
+^
+O win
+
+X - - 
+O O - 
+X - - 
+^
+O win
+
+X - - 
+O X - 
+X - O 
+^
+X win
+
+X - X 
+O - - 
+X O O 
+^
+O win
+
+- O - 
+X - X 
+- O X 
+^
+X win
+
+- X O 
+O - - 
+X X - 
+^
+X win
+
+X - O 
+- X X 
+- - O 
+^
+X win
+
+X - O 
+O - X 
+- - X 
+^
+X win
+
+X - O 
+- - O 
+X O X 
+^
+O win
+
+X - O 
+- - - 
+X X O 
+^
+X win
+
+X X - 
+O - - 
+- X O 
+^
+X win
+
+- - X 
+- X O 
+O - X 
+^
+X win
+
+- - O 
+X X - 
+- O X 
+^
+X win
+
+O X - 
+- - X 
+O - X 
+^
+X win
+
+X O - 
+- X - 
+- O X 
+^
+X win
+
+O - X 
+- - X 
+O - X 
+^
+X win
+
+- X X 
+O - O 
+- - X 
+^
+X win
+
+X O X 
+- - X 
+- - O 
+^
+X win
+
+- X O 
+O - - 
+- X X 
+^
+X win
+
+O - X 
+X - X 
+- O - 
+^
+X win
+
+O X O 
+O - - 
+X - X 
+^
+O win
+
+X O O 
+- - X 
+X O - 
+^
+O win
+
+X O - 
+X - - 
+- O X 
+^
+X win
+
+X X O 
+- - - 
+- O X 
+^
+X win
+
+O - - 
+- X O 
+X - X 
+^
+X win
+
+O X - 
+- - X 
+X - O 
+^
+X win
+
+X O - 
+O - X 
+X - O 
+^
+O win
+
+- O X 
+- X - 
+- X O 
+^
+X win
+
+- O X 
+X - X 
+- - O 
+^
+X win
+
+- X X 
+X - - 
+O - O 
+^
+X win
+
+X O X 
+O - - 
+- - - 
+^
+O win
+
+X - O 
+- X - 
+X - O 
+^
+X win
+
+- O X 
+- - - 
+X X O 
+^
+X win
+
+- X - 
+- - O 
+X O - 
+^
+O win
+
+- - X 
+O X O 
+- X - 
+^
+X win
+
+O X O 
+X - X 
+- - - 
+^
+X win
+
+X O X 
+X - - 
+- - O 
+^
+X win
+
+- O X 
+X O - 
+- - - 
+^
+O win
+
+- - O 
+X X X 
+- O - 
+^
+X win
+
+- - X 
+X - - 
+O X O 
+^
+X win
+
+- X - 
+- X O 
+O X - 
+^
+X win
+
+O - O 
+- - X 
+X X - 
+^
+X win
+
+O X X 
+- - - 
+O X - 
+^
+X win
+
+X X O 
+- - - 
+X O - 
+^
+X win
+
+- - X 
+O - - 
+O X - 
+^
+O win
+
+- - - 
+O - O 
+X X X 
+^
+X win
+
+O X - 
+- - X 
+- X O 
+^
+X win
+
+- O X 
+- X - 
+- O X 
+^
+X win
+
+X - X 
+O - O 
+X - O 
+^
+O win
+
+- O - 
+- - O 
+X - X 
+^
+O win
+
+- - O 
+- X X 
+X - O 
+^
+X win
+
+X O X 
+- - O 
+O X - 
+^
+O win
+
+X - O 
+- X X 
+O - - 
+^
+X win
+
+- - - 
+- O X 
+X O - 
+^
+O win
+
+- X - 
+O - - 
+X X O 
+^
+X win
+
+- - O 
+X - X 
+X O - 
+^
+X win
+
+O - X 
+X X O 
+O - X 
+^
+X win
+
+- X - 
+- O - 
+- O X 
+^
+O win
+
+- - X 
+- X O 
+O X - 
+^
+X win
+
+X O X 
+- O - 
+O - X 
+^
+O win
+
+X O X 
+- - O 
+- O X 
+^
+O win
+
+X O - 
+- - X 
+X O O 
+^
+O win
+
+O - X 
+O - O 
+X - X 
+^
+O win
+
+- - - 
+O - X 
+X X O 
+^
+X win
+
+X - O 
+- - X 
+O - X 
+^
+X win
+
+- - X 
+O X O 
+X - - 
+^
+X win
+
+O - X 
+X X - 
+O - - 
+^
+X win
+
+X X X 
+- - O 
+O - - 
+^
+X win
+
+- O X 
+- - X 
+O - X 
+^
+X win
+
+- X O 
+- X - 
+- X O 
+^
+X win
+
+O - X 
+- - X 
+- O X 
+^
+X win
+
+X - O 
+O - X 
+X X O 
+^
+X win
+
+O X O 
+- - X 
+- - X 
+^
+X win
+
+- - X 
+O - O 
+X X - 
+^
+X win
+
+O - X 
+- X - 
+X - O 
+^
+X win
+
+- - X 
+O - - 
+X X O 
+^
+X win
+
+X - - 
+O X O 
+X - - 
+^
+X win
+
+- X - 
+- X - 
+O X O 
+^
+X win
+
+- X O 
+- - O 
+- X - 
+^
+O win
+
+O X - 
+- - O 
+X X - 
+^
+X win
+
+O - X 
+- - X 
+- X O 
+^
+X win
+
+- O X 
+- X - 
+X O - 
+^
+X win
+
+X - X 
+X - O 
+O - - 
+^
+X win
+
+X O X 
+- X - 
+- - O 
+^
+X win
+
+O X X 
+- - O 
+- X - 
+^
+X win
+
+X X O 
+O - X 
+- - - 
+^
+X win
+
+X - - 
+O X O 
+- - X 
+^
+X win
+
+- - X 
+O X O 
+- - X 
+^
+X win
+
+- - X 
+X X - 
+O - O 
+^
+X win
+
+X - O 
+O O X 
+X - - 
+^
+O win
+
+X O - 
+X - - 
+O X - 
+^
+X win
+
+X - - 
+- - X 
+O X O 
+^
+X win
+
+- X X 
+X - O 
+O - - 
+^
+X win
+
+X O - 
+X - X 
+- - O 
+^
+X win
+
+O X - 
+- O - 
+X O X 
+^
+O win
+
+O - X 
+X X - 
+- O - 
+^
+X win
+
+- X X 
+- - - 
+O X O 
+^
+X win
+
+- X O 
+X - - 
+X - O 
+^
+X win
+
+- O X 
+- O - 
+X O X 
+^
+O win
+
+O - - 
+- - X 
+X X O 
+^
+X win
+
+X X - 
+O - O 
+- X - 
+^
+X win
+
+- - O 
+X - X 
+- O X 
+^
+X win
+
+X O - 
+- - O 
+X O X 
+^
+O win
+
+- O X 
+- X - 
+O - X 
+^
+X win
+
+X O X 
+O - - 
+O - X 
+^
+O win
+
+X O - 
+X - - 
+- X O 
+^
+X win
+
+O X O 
+- X - 
+X - - 
+^
+X win
+
+X O - 
+- X - 
+O X - 
+^
+X win
+
+- X O 
+X - - 
+- O X 
+^
+X win
+
+- O X 
+O - - 
+X O X 
+^
+O win
+
+O - X 
+- - - 
+X X O 
+^
+X win
+
+O - X 
+- X O 
+- - X 
+^
+X win
+
+X O X 
+- X - 
+O X O 
+^
+X win
+
+X - - 
+O - O 
+X X - 
+^
+X win
+
+- O X 
+X - - 
+O O X 
+^
+O win
+
+- X - 
+O - O 
+X O X 
+^
+O win
+
+O X - 
+- X - 
+- O X 
+^
+X win
+
+O X X 
+X - O 
+- - - 
+^
+X win
+
+X - X 
+O O O 
+X - - 
+^
+O win
+
+- X - 
+O - X 
+- X O 
+^
+X win
+
+O X O 
+X - - 
+- X - 
+^
+X win
+
+X O X 
+- - X 
+O - - 
+^
+X win
+
+X O - 
+- X - 
+X O - 
+^
+X win
+
+- O - 
+- X - 
+X O X 
+^
+X win
+
+- O X 
+- - X 
+O X - 
+^
+X win
+
+O - - 
+X O - 
+- - X 
+^
+O win
+
+X O - 
+X - - 
+X O - 
+^
+X win
+
+- X O 
+O X - 
+X - - 
+^
+X win
+
+X O - 
+O - X 
+X O - 
+^
+O win
+
+X X - 
+O - O 
+X - - 
+^
+X win
+
+- X O 
+O - - 
+X O X 
+^
+O win
+
+X - O 
+- - X 
+- O X 
+^
+X win
+
+X - X 
+- O O 
+O - X 
+^
+O win
+
+O - - 
+X - - 
+O X X 
+^
+X win
+
+X - O 
+X - - 
+X - O 
+^
+X win
+
+- X O 
+- X - 
+X - O 
+^
+X win
+
+O X - 
+- - O 
+- X X 
+^
+X win
+
+- X O 
+- - X 
+O X - 
+^
+X win
+
+X - O 
+O X - 
+- X - 
+^
+X win
+
+X O - 
+- O X 
+X - O 
+^
+O win
+
+O - - 
+X - - 
+X O X 
+^
+X win
+
+O - - 
+- - O 
+X X X 
+^
+X win
+
+O X - 
+X - - 
+O X - 
+^
+X win
+
+- O X 
+- - X 
+- O X 
+^
+X win
+
+X - O 
+O - O 
+X - X 
+^
+O win
+
+X - - 
+O - X 
+X O O 
+^
+O win
+
+X O X 
+- - O 
+X - O 
+^
+O win
+
+- O X 
+X - - 
+X O - 
+^
+X win
+
+X O X 
+O - - 
+O X - 
+^
+O win
+
+- - O 
+O X X 
+X - - 
+^
+X win
+
+- - - 
+X - O 
+O X X 
+^
+X win
+
+- O - 
+X X X 
+- O - 
+^
+X win
+
+O X - 
+- - O 
+X O X 
+^
+O win
+
+O - O 
+X X - 
+- - X 
+^
+X win
+
+O - X 
+X - O 
+- O X 
+^
+O win
+
+O X - 
+X - X 
+- - O 
+^
+X win
+
+X - - 
+- X O 
+O - X 
+^
+X win
+
+O X - 
+- X O 
+X - - 
+^
+X win
+
+X - O 
+X - - 
+O X - 
+^
+X win
+
+O - X 
+- - O 
+- X X 
+^
+X win
+
+- O - 
+X X - 
+O - X 
+^
+X win
+
+- O X 
+X - O 
+O - X 
+^
+O win
+
+- X O 
+O O - 
+X - X 
+^
+O win
+
+X - X 
+O O - 
+- X O 
+^
+O win
+
+O - - 
+X - X 
+- X O 
+^
+X win
+
+O - - 
+- X - 
+X O X 
+^
+X win
+
+- - O 
+X - X 
+- X O 
+^
+X win
+
+- X - 
+O X O 
+- X - 
+^
+X win
+
+X O X 
+O - O 
+- - X 
+^
+O win
+
+- X - 
+- X O 
+O - X 
+^
+X win
+
+- X - 
+X - - 
+O X O 
+^
+X win
+
+- - O 
+X X X 
+- - O 
+^
+X win
+
+- - O 
+X - - 
+O X X 
+^
+X win
+
+O X X 
+X - - 
+- - O 
+^
+X win
+
+O X - 
+X - X 
+- O - 
+^
+X win
+
+O X O 
+- O - 
+X - X 
+^
+O win
+
+X - X 
+O O O 
+- - X 
+^
+O win
+
+X O X 
+O - - 
+- X O 
+^
+O win
+
+- X O 
+X - X 
+- - O 
+^
+X win
+
+- - X 
+X O - 
+- O - 
+^
+O win
+
+O X X 
+X - - 
+O - - 
+^
+X win
+
+O - - 
+- X X 
+X O - 
+^
+X win
+
+X X O 
+- - - 
+- X O 
+^
+X win
+
+- O - 
+X X X 
+O - - 
+^
+X win
+
+O - - 
+X X X 
+- O - 
+^
+X win
+
+O - O 
+- - - 
+X X X 
+^
+X win
+
+X X O 
+- - X 
+O - - 
+^
+X win
+
+O - X 
+- X - 
+O X - 
+^
+X win
+
+- O X 
+X - - 
+X - O 
+^
+X win
+
+- - O 
+- - X 
+X X O 
+^
+X win
+
+O X X 
+- - - 
+O - X 
+^
+X win
+
+X - O 
+X - - 
+X O - 
+^
+X win
+
+O - X 
+X - O 
+O X X 
+^
+X win
+
+X X X 
+O - O 
+- - - 
+^
+X win
+
+- X O 
+- O - 
+X O X 
+^
+O win
+
+O X - 
+- O O 
+X - X 
+^
+O win
+
+O X O 
+X - - 
+- - X 
+^
+X win
+
+- - O 
+X X X 
+O - - 
+^
+X win
+
+O - X 
+X O O 
+- - X 
+^
+O win
+
+- X O 
+O - X 
+- - X 
+^
+X win
+
+- - X 
+- - X 
+O X O 
+^
+X win
+
+X O X 
+- X - 
+O - - 
+^
+X win
+
+- X - 
+- - X 
+O X O 
+^
+X win
+
+X - - 
+O O X 
+X - O 
+^
+O win
+
+O X - 
+O - - 
+X O X 
+^
+O win
+
+O X - 
+- X - 
+X O - 
+^
+X win
+
+O - X 
+- X O 
+X - - 
+^
+X win
+
+X - - 
+O X - 
+- X O 
+^
+X win
+
+X - X 
+- O - 
+O X O 
+^
+O win
+
+- O X 
+- - X 
+- X O 
+^
+X win
+
+O X - 
+- X - 
+O X - 
+^
+X win
+
+X O - 
+O - - 
+X O X 
+^
+O win
+
+- X O 
+- X - 
+O X - 
+^
+X win
+
+X O - 
+- X - 
+- X O 
+^
+X win
+
+- X O 
+X - - 
+O X - 
+^
+X win
+
+- X O 
+- - X 
+- X O 
+^
+X win
+
+X - X 
+O O - 
+X - O 
+^
+O win
+
+X O - 
+- X - 
+X - O 
+^
+X win
+
+X O X 
+O - - 
+- O X 
+^
+O win
+
+- O X 
+- X - 
+O X - 
+^
+X win
+
+O - - 
+X X X 
+- - O 
+^
+X win
+
+O X - 
+- - X 
+X O - 
+^
+X win
+
+- O - 
+X - X 
+O - X 
+^
+X win
+
+- O X 
+O - O 
+X - X 
+^
+O win
+
+X - - 
+- X O 
+O X - 
+^
+X win
+
+X - - 
+- X X 
+O - O 
+^
+X win
+
+O - X 
+X X O 
+- - - 
+^
+X win
+
+O - X 
+- O - 
+X O X 
+^
+O win
+
+X - O 
+O X - 
+X - - 
+^
+X win
+
+X - X 
+O X - 
+- - O 
+^
+X win
+
+- X - 
+O X O 
+X - - 
+^
+X win
+
+X O - 
+- X X 
+- O - 
+^
+X win
+
+- X O 
+X - - 
+- X O 
+^
+X win
+
+X - - 
+O O O 
+X - X 
+^
+O win
+
+O - - 
+X - X 
+O X - 
+^
+X win
+
+O - O 
+- X X 
+X - - 
+^
+X win
+
+- O X 
+- - X 
+X O - 
+^
+X win
+
+- - X 
+X X O 
+O - - 
+^
+X win
+
+- X O 
+O X - 
+- - X 
+^
+X win
+
+O - O 
+X - - 
+- X X 
+^
+X win
+
+O - O 
+- X - 
+X - X 
+^
+X win
+
+X O - 
+- - - 
+X X O 
+^
+X win
+
+- O - 
+X - X 
+- X O 
+^
+X win
+
+O - X 
+- O O 
+X - X 
+^
+O win
+
+O X O 
+X - - 
+X - - 
+^
+X win
+
+- O - 
+- X X 
+X O - 
+^
+X win
+
+O X - 
+- - X 
+O X - 
+^
+X win
+
+X O - 
+- X X 
+- - O 
+^
+X win
+
+X - - 
+X - O 
+O X - 
+^
+X win
+
+X - - 
+- X - 
+O X O 
+^
+X win
+
+X O X 
+- - X 
+O X O 
+^
+X win
+
+- O - 
+- X X 
+X - O 
+^
+X win
+
+X - X 
+- O O 
+O X - 
+^
+O win
+
+- - X 
+O O O 
+X - X 
+^
+O win
+
+- O X 
+X X - 
+O - - 
+^
+X win
+
+- - - 
+X X O 
+O - X 
+^
+X win
+
+- X O 
+- - O 
+X O X 
+^
+O win
+
+- - O 
+O - X 
+X X - 
+^
+X win
+
+- - O 
+X - X 
+O X - 
+^
+X win
+
+- O X 
+X X - 
+- - O 
+^
+X win
+
+X X X 
+- - - 
+O - O 
+^
+X win
+
+- O - 
+- - X 
+X O X 
+^
+X win
+
+- O - 
+- - X 
+X X O 
+^
+X win
+
+X O O 
+O - - 
+X - X 
+^
+O win
+
+- X - 
+O X - 
+- X O 
+^
+X win
+
+O - X 
+- X - 
+- O X 
+^
+X win
+
+O - X 
+O - - 
+X O X 
+^
+O win
+
+O X X 
+X - O 
+O - X 
+^
+X win
+
+- - X 
+O - X 
+- X O 
+^
+X win
+
+O X - 
+- X O 
+- - X 
+^
+X win
+
+- O - 
+X X - 
+- O X 
+^
+X win
+
+X - X 
+- - O 
+O O X 
+^
+O win
+
+O X - 
+- X - 
+O - X 
+^
+X win
+
+O X - 
+X - X 
+O - - 
+^
+X win
+
+O X - 
+O - O 
+X - X 
+^
+O win
+
+X - O 
+- O X 
+X O - 
+^
+O win
+
+X - X 
+O X O 
+- - - 
+^
+X win
+
+O O X 
+- - O 
+X - X 
+^
+O win
+
+O X - 
+X - - 
+X O - 
+^
+X win
+
+X O X 
+- O - 
+- X O 
+^
+O win
+
+X - O 
+- X - 
+- X O 
+^
+X win
+
+X - - 
+O - O 
+X O X 
+^
+O win
+
+- O X 
+X O - 
+O - X 
+^
+O win
+
+- - - 
+X X X 
+O - O 
+^
+X win
+
+- O X 
+X X - 
+- O - 
+^
+X win
+
+O X O 
+X - - 
+X O X 
+^
+X win
+
+O O X 
+X - O 
+- - X 
+^
+O win
+
+X X O 
+O - X 
+X - O 
+^
+X win
