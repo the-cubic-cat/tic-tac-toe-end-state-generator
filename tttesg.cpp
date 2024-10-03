@@ -237,6 +237,7 @@ public:
         }
 
         output << "\n^\n" << boardState << "\n";
+        output<< "Number of empty cells: " << getEmptyCells().size() << "\n";
     }
     
     // returns a vector of coordinates of all empty cells
@@ -434,7 +435,7 @@ void printBoardsToFile(const std::vector<Board>& seenBoards, int lineLength
         + std::to_string(seenBoards[0].getWidth()) + "_l" 
         + std::to_string(lineLength) + "_boards_log";
 
-    std::ofstream file{fileName};
+    std::ofstream file{"logs/" + fileName};
     
     file << "The number of boards counted before the quit threshold ("
         << quitThreshold << ") was exceeded is: "
